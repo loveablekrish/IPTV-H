@@ -2,7 +2,7 @@ TEST
 ------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
-http://live12.hotstar.com/hls/live/2003697/pkl2019/hin/fulldvrnew1440002770m01wsn486azhc19october2019/master.m3u8?a=ns&hdnea=st=1537343436~exp=1573343436~acl=/*~hmac=23f354cbfa198602cf1787aee16b4d7e6376f31e295934af5d9998eed6d678e1|User-Agent"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
+http://109.169.56.170/hls/starsports1.m3u8|user-agent="oxoo/1.0.5 (Linux;Android 9) ExoPlayerLib/2.7.3"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
