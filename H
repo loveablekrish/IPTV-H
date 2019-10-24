@@ -2,7 +2,7 @@ TEST
 ------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_1/Star_Sports_1_JSRV12_2000.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_1/Star_Sports_1_JSRV12_1200.m3u8?a=ns&hdnea=st=1537343436|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -654,7 +654,7 @@ Odia
 https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Odia" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bf/Tarang_TV_Logo.png/revision/latest?cb=20190107134045",Tarang TV
-https://ylive65-i.akamaihd.net/hls/live/691666/tarangtv/tarangtv_2000/chunklist.m3u8
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Tarang_TV/Tarang_TV_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Odia" tvg-logo="logo N/A",Zee Sarthak
 http://pockettv.xyz/api/zee.m3u8?c=sarthaktv
