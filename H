@@ -333,44 +333,53 @@ http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Animal_Planet_
 #EXTINF:-1 tvg-id="Living Foodz HD" group-title="Infotainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Living_Foodz.png",Living Foodz HD
 http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
 
-#EXTINF:-1 tvg-name="$ Discovery Showcase" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Discovery_Showcase_HD.png/revision/latest/scale-to-width-down/300?cb=20161213133625",Discovery Showcase
+#EXTINF:-1 tvg-name="Discovery Showcase" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d3/Discovery_Showcase_HD.png/revision/latest/scale-to-width-down/300?cb=20161213133625",Discovery Showcase
 http://95.170.215.118/hls/m3u8/Discovery-Showca.m3u8|user-agent="Lavf/56.15.102"
 
-#EXTINF:-1 tvg-name="$ Nat Geo HD" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png", Nat Geo HD
+#EXTINF:-1 tvg-name="Nat Geo HD" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png", Nat Geo HD
 http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8|user-agent="Lavf/56.15.102"
 
-#EXTINF:-1 tvg-name="$ Nat Geo Wild" tvg-id="id N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png", Nat Geo Wild
+#EXTINF:-1 tvg-name="Nat Geo Wild" tvg-id="id N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nat_Geo_Wild_Canada.svg/1200px-Nat_Geo_Wild_Canada.svg.png", Nat Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/04.m3u8
 
-#EXTINF:-1 tvg-name="$ Nat Geo People" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png", Nat Geo People
+#EXTINF:-1 tvg-name="Nat Geo People" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/New_NatGeo_People_logo.svg/1200px-New_NatGeo_People_logo.svg.png", Nat Geo People
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/04.m3u8
 
-#EXTINF:-1 tvg-name="$ Animal Planet" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20181016205525", Animal Planet
+#EXTINF:-1 tvg-name="Animal Planet" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/Animal_Planet_2018.svg/revision/latest/scale-to-width-down/250?cb=20181016205525", Animal Planet
 http://95.170.215.118/hls/m3u8/Animal-Planet.m3u8|user-agent="Lavf/56.15.102"
 
-#EXTINF:-1 tvg-name="$ Foodie" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Foodie.png/revision/latest?cb=20190207074112", Foodie
+#EXTINF:-1 tvg-name="Foodie" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/3c/Foodie.png/revision/latest?cb=20190207074112", Foodie
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
 
-#EXTINF:-1 tvg-name="$ Better Nature US" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png", Better Nature US
+#EXTINF:-1 tvg-name="Better Nature US" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/87/Nature_logo.png", Better Nature US
 http://uni5rtmp.tulix.tv:1935/betternature/betternature/playlist.m3u8
 
-#EXTINF:-1 tvg-name="$ Better Life US" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="http://channels.roku.com/images/c8bd3eb973b54501ae3cccc077661fe1-hd.jpg", Better Life US
+#EXTINF:-1 tvg-name="Better Life US" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="http://channels.roku.com/images/c8bd3eb973b54501ae3cccc077661fe1-hd.jpg", Better Life US
 http://uni5rtmp.tulix.tv:1935/betterlife/betterlife/playlist.m3u8
 
-#EXTINF:-1 tvg-name="$ Better Health US" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://media.healthdirect.org.au/images/logos/w300/BetterHealthChannel_logo.png", Better Health US
+#EXTINF:-1 tvg-name="Better Health US" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://media.healthdirect.org.au/images/logos/w300/BetterHealthChannel_logo.png", Better Health US
 http://uni5rtmp.tulix.tv:1935/betterhealth/betterhealth/playlist.m3u8
 
-#EXTINF:-1 tvg-name="$ Insight" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/Insight_2018.svg/revision/latest/scale-to-width-down/250?cb=20190408115211", Insight
+#EXTINF:-1 tvg-name="Insight" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/bc/Insight_2018.svg/revision/latest/scale-to-width-down/250?cb=20190408115211", Insight
 http://jiocgwhub.jio.ril.com/Insight/Insight_1200.m3u8
 
-#EXTINF:-1 tvg-name="$ FTV High" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Fashion_TV_2009.svg/revision/latest/scale-to-width-down/200?cb=20111009231547", FTV 
+#EXTINF:-1 tvg-name="FTV High" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Fashion_TV_2009.svg/revision/latest/scale-to-width-down/200?cb=20111009231547", FTV 
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1 tvg-name="$ Fashion TV Paris" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Fashion_TV_2009.svg/revision/latest/scale-to-width-down/200?cb=20111009231547",Fashion TV Paris
+#EXTINF:-1 tvg-name="Fashion TV Paris" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Fashion_TV_2009.svg/revision/latest/scale-to-width-down/200?cb=20111009231547",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-name="$ Fashion TV Midnite" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Fashion_TV_2009.svg/revision/latest/scale-to-width-down/200?cb=20111009231547", Fashion TV Midnite
+#EXTINF:-1 tvg-name="Fashion TV Midnite" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Fashion_TV_2009.svg/revision/latest/scale-to-width-down/200?cb=20111009231547", Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://en.wikipedia.org/wiki/Discovery_HD#/media/File:Discovery_HD_logo_2009.png", Discovery_HD_World
+http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_HD_World/Discovery_HD_World_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+
+#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Science_channel_2011logo.png/revision/latest?cb=20110415120454", Discovery_Science
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Science/Discovery_Science_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
