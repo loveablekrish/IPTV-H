@@ -381,6 +381,8 @@ http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_HD_World/Dis
 #EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Science_channel_2011logo.png/revision/latest?cb=20110415120454", Discovery_Science
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Science/Discovery_Science_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
+#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TLC_HD.svg", TLC HD
+http://http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_World_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -459,9 +461,6 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg", Dilse Hungama Hits
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/ZOOM.png",Aaho Musio
-http://live.redflixtv.online/M3U8_Music_Aaho_New.php
 
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/SONY_MIX_LOGO_LATEST.jpg",Sony Mix
 http://sgdccdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
