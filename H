@@ -2,8 +2,7 @@ TEST
 ------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
-http://sgdccdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
+http://live12.hotstar.com/hls/live/2003697/pkl2019/hin/fulldvrnew1440002770m01wsn486azhc19october2019/master.m3u8?a=ns&hdnea=st=1537343436~exp=1573343436~acl=/*~hmac=23f354cbfa198602cf1787aee16b4d7e6376f31e295934af5d9998eed6d678e1HTTP/1.1CHT0RZeU56UXlPUT09JF9fZ055Z1ROd2tUTTNNVE1AX19RTnpnak13a1RNM1VUTQ==|User-Agent"Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/31.0.1650.0 Safari/537.36"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
