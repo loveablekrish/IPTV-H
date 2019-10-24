@@ -2,7 +2,7 @@ TEST
 ------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
-http://109.169.56.170/hls/starsports1.m3u8|user-agent="oxoo/1.0.5 (Linux;Android 9) ExoPlayerLib/2.7.3"
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_1/Star_Sports_1_JSRV12_4000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
