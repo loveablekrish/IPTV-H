@@ -535,7 +535,7 @@ http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|user-agent="Lavf/56.15.102"
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A", Sky Movies Select
 http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|user-agent="Lavf/56.15.102"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A", Star Movies
+#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg", Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
