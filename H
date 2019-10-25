@@ -9,7 +9,7 @@ http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_G
 Sports LIVE Native Decoder
 
 #EXTINF:-1 group-title="Sports Live", 1_Eng(Native Decoder)
-https://live11.hotstar.com/hls/live/2003693/heroisl2019-20/eng/15mindvr1440002998ISL25october2019/master.m3u8?a=ns&hdnea=st=1572013445~exp=1572017045~acl=/*~hmac=bf58158a25fd2ddab4c40c18b1294f0ef73b447dbc2bb372c82fc3bebbacb3b1|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
+https://live11.hotstar.com/hls/live/2003693/heroisl2019-20/eng/15mindvr1440002998ISL25october2019/master.m3u8?a=ns&hdnea=st=1572017503~exp=1572021103~acl=/*~hmac=9ff3fcb519cf35ea468db032d9f9480bf1b3400aea401204f8daa12e7b0fed25|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
 
 #EXTINF:-1 group-title="Sports Live", 2_Hindi(Native Decoder)
 https://live12.hotstar.com/hls/live/2003704/heroisl2019-20/hin/15mindvr1440002998ISL25october2019/master.m3u8?a=ns&hdnea=st=1572015632~exp=1572019232~acl=/*~hmac=9c3fd28d6a61f9fa710b7a526785a7ac38249babf711ed6ddfcc278192ee0428|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
