@@ -2,14 +2,14 @@ TEST
 ------------------------------------------------------------------------------------------
 #EXTM3U
 
-#EXTINF:-1 group-title="TEST", TEST 12
-https://live07.hotstar.com/hls/live/2003373/bwf2019/eng/fulldvr1440003040m01BWF25october2019/master_5.m3u8|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
+#EXTINF:-1 group-title="TEST", TEST 00
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sports LIVE Native Decoder
 
-#EXTINF:-1 group-title="Sports Live", 1_Eng(Native Decoder)
-https://live11.hotstar.com/hls/live/2003693/heroisl2019-20/eng/15mindvr1440002998ISL25october2019/master.m3u8?a=ns&hdnea=st=1572017503~exp=1572021103~acl=/*~hmac=9ff3fcb519cf35ea468db032d9f9480bf1b3400aea401204f8daa12e7b0fed25|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
+#EXTINF:-1 group-title="Sports Live", 1 Badminton
+https://live07.hotstar.com/hls/live/2003373/bwf2019/eng/fulldvr1440003040m01BWF25october2019/master_5.m3u8|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
 
 #EXTINF:-1 group-title="Sports Live", T20 WC Qualifier
 https://live07.hotstar.com/hls/live/2007470/icct20wcqual2019/eng/fulldvr1440002865m03ICC25october2019/master_1.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
