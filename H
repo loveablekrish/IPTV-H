@@ -13,6 +13,12 @@ https://live07.hotstar.com/hls/live/2003373/bwf2019/eng/fulldvr1440003040m01BWF2
 
 #EXTINF:-1 group-title="Sports Live", T20 WC Qualifier
 https://live07.hotstar.com/hls/live/2007470/icct20wcqual2019/eng/fulldvr1440002865m03ICC25october2019/master_1.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 group-title="Sports Live", Football 1
+http://zer0live.ddns.net:13292/mars/skysportspleaguehd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxOSA3OjQwOjU1IFBNJmhhc2hfdmFsdWU9Q3k2L0JiTFZiNmJOYjFlWDVjZ21vZz09JnZhbGlkbWludXRlcz0y
+
+#EXTINF:-1 group-title="Sports Live", Football 2
+http://zer0live.ddns.net:13292/mars/skysportsmaineventhd/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjUvMjAxOSA3OjQ0OjAxIFBNJmhhc2hfdmFsdWU9UWorMWpMOGY5d0N4ekhkMVJoT0VIdz09JnZhbGlkbWludXRlcz0y
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
