@@ -2,8 +2,8 @@ TEST
 ------------------------------------------------------------------------------------------
 #EXTM3U
 
-#EXTINF:-1 group-title="TEST", TEST 10
-http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_Good_Times_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+#EXTINF:-1 group-title="TEST", TEST 12
+https://live07.hotstar.com/hls/live/2003373/bwf2019/eng/fulldvr1440003040m01BWF25october2019/master_5.m3u8|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Sports LIVE Native Decoder
