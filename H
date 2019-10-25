@@ -9,7 +9,7 @@ http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_G
 SOPRTS LIVE Native Decoder
 
 #EXTINF:-1 group-title="Soprts Live", 1_Eng(Native Decoder)
-https://live11.hotstar.com/hls/live/2003693/heroisl2019-20/eng/15mindvr1440002998ISL25october2019/master.m3u8?a=ns&hdnea=st=1572010350~exp=1572013950~acl=/*~hmac=b4da0e48bc19f7651f8851ef90dde0d65d7cd072f92545d08f5a332e28644a30|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
+https://live11.hotstar.com/hls/live/2003693/heroisl2019-20/eng/15mindvr1440002998ISL25october2019/master.m3u8?a=ns&hdnea=st=1572013445~exp=1572017045~acl=/*~hmac=bf58158a25fd2ddab4c40c18b1294f0ef73b447dbc2bb372c82fc3bebbacb3b1|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
 
 #EXTNF:-1 group-title="Soprts Live", 2_Hindi(Native Decoder)
 https://live12.hotstar.com/hls/live/2003704/heroisl2019-20/hin/15mindvr1440002998ISL25october2019/master.m3u8?a=ns&hdnea=st=1572011957~exp=1572015557~acl=/*~hmac=e392a515a00350853bef099a29bf8e4819ea12825d1c9259b3e1d974d06622e3|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
