@@ -6,13 +6,13 @@ TEST
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_Good_Times_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-SOPRTS LIVE
+SOPRTS LIVE Native Decoder
 
-#EXTINF:-1 group-title="TEST", Soprts Live 1
+#EXTINF:-1 group-title="Soprts Live", Soprts Live 1_Eng
 https://live11.hotstar.com/hls/live/2003693/heroisl2019-20/eng/15mindvr1440002998ISL25october2019/master.m3u8?a=ns&hdnea=st=1572010350~exp=1572013950~acl=/*~hmac=b4da0e48bc19f7651f8851ef90dde0d65d7cd072f92545d08f5a332e28644a30|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
 
-
-
+#EXTNF:-1 group-title="Soprts Live", Soprts Live 2_Hindi
+https://live12.hotstar.com/hls/live/2003704/heroisl2019-20/hin/15mindvr1440002998ISL25october2019/master.m3u8?a=ns&hdnea=st=1572011957~exp=1572015557~acl=/*~hmac=e392a515a00350853bef099a29bf8e4819ea12825d1c9259b3e1d974d06622e3User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -494,12 +494,14 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mi
 #EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://en.wikipedia.org/wiki/Discovery_HD#/media/File:Discovery_HD_logo_2009.png", Discovery_HD_World
 http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_HD_World/Discovery_HD_World_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-
 #EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/09/Science_channel_2011logo.png/revision/latest?cb=20110415120454", Discovery_Science
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Science/Discovery_Science_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Logo_TLC_HD.svg", TLC HD
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_World_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://www.logolynx.com/images/logolynx/cf/cf111b0ff32ffa7242b4e1d02b704ed0.jpeg", NDTV_Good_Times
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_Good_Times_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -531,13 +533,13 @@ http://95.170.215.118/hls/m3u8/Boomerang.m3u8|user-agent="Lavf/56.15.102"
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_English.png",Cartoon Network HD
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CN_HD_English/CN_HD_English_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.3(Linux;Android 10)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="n/a",Sony_Yay_Hindi
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Sony_Yay_Logo.jpg",Sony_Yay_Hindi
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Yay_Hindi/Sony_Yay_Hindi_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="n/a",Pogo_Hindi
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="https://en.wikipedia.org/wiki/Pogo_(TV_channel)#/media/File:POGO-logo.png",Pogo_Hindi
 http://sgdccdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Pogo_Hindi/Pogo_Hindi_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="n/a",Discovery_Kids
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="https://en.wikipedia.org/wiki/Discovery_Kids_(Latin_America)#/media/File:2016_Discovery_Kids_logo.svg",Discovery_Kids
 http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Kids_2/Discovery_Kids_2_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
