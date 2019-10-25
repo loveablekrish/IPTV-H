@@ -2,7 +2,7 @@ TEST
 ------------------------------------------------------------------------------------------
 #EXTM3U
 #EXTINF:-1 group-title="TEST", TEST 1
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Star_Sports_1/Star_Sports_1_JSRV12_1200.m3u8?a=ns&hdnea=st=1537343436|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
+https://edge4.bioscopelive.com/hls/jYTiWD_mNkS4w7rhZpNF7A/1571988558/dhoom.m3u8
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
