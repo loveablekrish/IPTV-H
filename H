@@ -4,6 +4,10 @@ TEST
 #EXTINF:-1 group-title="TEST", TEST 1
 https://edge4.bioscopelive.com/hls/jYTiWD_mNkS4w7rhZpNF7A/1571988558/dhoom.m3u8
 
+#EXTINF:-1 group-title="TEST", TEST 2
+https://edge4.bioscopelive.com/hls/jYTiWD_mNkS4w7rhZpNF7A/1571988558/dhoom.m3u8
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
