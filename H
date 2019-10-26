@@ -2,8 +2,8 @@ TEST
 ------------------------------------------------------------------------------------------
 #EXTM3U
 
-#EXTINF:-1 group-title="TEST", TEST 05
-http://109.169.56.170/hls/starsports1.m3u8|user-agent="oxoo/1.0.5 (Linux;Android 9) ExoPlayerLib/2.7.3"
+#EXTINF:-1 group-title="TEST", TEST 06
+https://live11.hotstar.com/hls/live/2003693/heroisl2019-20/eng/15mindvr1440002999ISL26october2019/master_4.m3u8|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
