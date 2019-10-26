@@ -12,17 +12,11 @@ http://zer0live.ddns.net:13292/mars/skysportsmaineventhd/chunks.m3u8|User-Agent=
 Sports LIVE Native Decoder
 
 #EXTINF:-1 group-title="Sports Live", 1 Badminton
-https://live07.hotstar.com/hls/live/2003373/bwf2019/eng/fulldvr1440003040m01BWF26october2019/master_5.m3u8|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
+https://live07.hotstar.com/hls/live/2003373/bwf2019/eng/fulldvr1440003041m01BWF26october2019/master_5.m3u8|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
+
 
 #EXTINF:-1 group-title="Sports Live", TC WC Q
 https://live07.hotstar.com/hls/live/2007472/icct20wcqual2019/eng/fulldvr1440002867m02ICC26october2019/master_1.m3u8|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
-
-#EXTINF:-1 group-title="Sports Live", T20 WC Qualifier
-https://live07.hotstar.com/hls/live/2007471/icct20wcqual2019/eng/fulldvr1440002866m01ICC26october2019/master_1.m3u8|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
-
-#EXTINF:-1 group-title="Sports Live", 2
-https://live07.hotstar.com/hls/live/2007472/icct20wcqual2019/eng/fulldvr1440002867m02ICC26october2019/master_1.m3u8|User-Agent="Mozilla/5.0(CrKey armv7l 1.4.15250)AppleWebKit/537.36(KHTML, like Gecko)Chrome/31.0.1650.0 Safari/537.36"
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
