@@ -5,6 +5,16 @@ TEST
 #EXTINF:-1 group-title="TEST", TEST 08
 https://live11.hotstar.com/hls/live/2003693/heroisl2019-20/eng/15mindvr1440002999ISL26october2019/master_4.m3u8|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
 
+#EXTINF:-1 group-title="TEST" tvg-logo="logo",Zee_Talkies
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_1200.m3u8?jct=oUJ7t2slMA4eVcgO8q2Bsg&pxe=1572256076&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 group-title="TEST" tvg-logo="logo",Maiboli
+http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_1200.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 group-title="TEST" tvg-logo="logo",Saam_Tv
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_1200.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
