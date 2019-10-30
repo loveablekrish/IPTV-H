@@ -3,6 +3,11 @@ Test
 #EXTINF:-1 tvg-logo="N/A" group-title="Test",01
 http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Maiboli/Maiboli_800-1572453728000.ts?jct=gzq1amggO9IjbydaYY0MMw&pxe=1572456239&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
+#EXTINF:-1 tvg-logo="N/A" group-title="Test",02
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_600.m3u8?jct=Q-Ey_hrqY1qUTdsthQ0rSQ&pxe=1572438771&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-logo="N/A" group-title="Test",02
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_600.m3u8?jct=L8Tj_jL_b1jfVQ15RA9scg&pxe=1572437908&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SPORTS
@@ -934,15 +939,6 @@ http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_1
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="N/A",BBC_Marathi
 http://jiocgehub.jio.ril.com/BBC_Marathi/BBC_Marathi_600.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Maiboli
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_800.m3u8?jct=vyVlMiQfuTxAYxQn4bTvGQ&pxe=1572453616&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Zee_Talkies
-http://sngprecdnems12.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_1200.m3u8?jct=sK0xhGFMeMvVjLUOoYnDEw&pxe=1572453942&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Saam_Tv
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Saam_Tv/Saam_Tv_1200.m3u8?jct=ERzevlaIg4lAseORb_7R3w&pxe=1572454069&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Starpravah
 https://starpravah-i.akamaihd.net/hls/live/569921-b/starpravah/master_2000.m3u8|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
