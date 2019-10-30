@@ -1,13 +1,4 @@
 
-Test
-#EXTINF:-1 tvg-logo="N/A" group-title="Test",05
-http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_600.m3u8?jct=I7afJI67Z8-ZgwcuwtbIzA&pxe=1572455961&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-#EXTINF:-1 tvg-logo="N/A" group-title="Test",06
-http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_600.m3u8?jct=2jragK3StGNcsDaONl_FsQ&pxe=1572456226&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-#EXTINF:-1 tvg-logo="N/A" group-title="Test",07
-
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SPORTS
@@ -939,6 +930,14 @@ http://jiocgehub.jio.ril.com/BBC_Marathi/BBC_Marathi_600.m3u8|User-Agent="plaYtv
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Starpravah
 https://starpravah-i.akamaihd.net/hls/live/569921-b/starpravah/master_2000.m3u8|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
+
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Zee_Talkies
+http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_600.m3u8?jct=I7afJI67Z8-ZgwcuwtbIzA&pxe=1572455961&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Saam_Tv
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_600.m3u8?jct=2jragK3StGNcsDaONl_FsQ&pxe=1572456226&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
