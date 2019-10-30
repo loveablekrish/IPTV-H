@@ -1396,5 +1396,46 @@ http://pockettv.xyz/api/zee.m3u8?c=zingusa
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+HD
 
+#EXTINF:-1 tvg-id="STAR PLUS HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="HD Channels",Star Plus
+http://jio30.indmovies.in/jio/Star_PlusHD_8000.m3u8
+#EXTINF:-1 tvg-id="Zee TV HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="HD Channels",Zee TV
+http://jio30.indmovies.in/jio/Zee_TV_HD_8000.m3u8
+#EXTINF:-1 tvg-id="SET  HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="HD Channels",Sony HD
+http://jio30.indmovies.in/jio/Sony_HD_8000.m3u8
+#EXTINF:-1 tvg-id="Colors HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="HD Channels",Colors HD
+http://jio30.indmovies.in/jio/Colors_HD_8000.m3u8
+#EXTINF:-1 radio="true" tvg-id="Andtv HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="HD Channels",And TV
+http://jio30.indmovies.in/jio/And_TV_HD_8000.m3u8
+#EXTINF:-1 tvg-id="SONY SAB HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="HD Channels",Sony SAB
+http://jio30.indmovies.in/jio/Sony_SAB_HD_8000.m3u8
+#EXTINF:-1 tvg-id="Sony Max HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="HD Channels",Sony Max HD
+http://jio30.indmovies.in/jio/Sony_Max_HD_8000.m3u8
+#EXTINF:-1 tvg-id="Zee Cinema HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="HD Channels",Zee Cinema HD
+http://jio30.indmovies.in/jio/Zee_Cinema_HD_8000.m3u8
+#EXTINF:-1 tvg-id="Star Gold HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="HD Channels",Star Gold HD
+http://jio30.indmovies.in/jio/Star_GoldHD_8000.m3u8
+#EXTINF:-1 tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HD Channels",Star Gold Select
+http://jio30.indmovies.in/jio/Star_Gold_Select_HD_8000.m3u8
+#EXTINF:-1 tvg-id="&Pictures HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HD Channels",&Pictures HD
+http://jio30.indmovies.in/jio/And_Pictures_HD_8000.m3u8
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="HD Channels",Star Movies HD
+http://jio30.indmovies.in/jio/Star_Movies_HD_8000.m3u8
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="HD Channels",Star Movies Select HD
+http://jio30.indmovies.in/jio/Star_Movies_Select_HD_8000.m3u8
+#EXTINF:-1 tvg-id="SONY BBC EARTH" tvg-name="BBC Earth HD Hindi FHD+" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="HD Channels",BBC Earth HD
+http://jio30.indmovies.in/jio/Sony_BBC_Earth_HD_8000.m3u8
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="HD Animal Planet FHD+" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet.png" group-title="HD Channels",HD Animal Planet
+http://jio30.indmovies.in/jio/Animal_Planet_HD_8000.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery HD World HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="HD Channels",Discovery HD World
+http://jio30.indmovies.in/jio/Discovery_HD_World_8000.m3u8
+#EXTINF:-1 tvg-id="History 18 Hindi" tvg-name="History HD FHD+" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="HD Channels",History 18 Hindi
+http://jio30.indmovies.in/jio/History_18_Hindi_8000.m3u8
+#EXTINF:-1 tvg-id="Living Foodz HD" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/FYI_TV18.png" group-title="HD Channels",FYI TV 18
+http://jio30.indmovies.in/jio/FYI_TV18_8000.m3u8
+#EXTINF:-1 tvg-id="Travelxp" tvg-name="Travel XP HD JTV High" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="HD Channels",Travel XP Hindi
+http://jio30.indmovies.in/jio/Travel_XP_8000.m3u8
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
