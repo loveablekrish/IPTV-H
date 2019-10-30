@@ -287,6 +287,14 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/SONY_MIX_LOGO_LATEST.jpg",Sony Mix
 http://sgdccdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music",Mastii Music
+http://jio30.indmovies.in/jio/Mastiii_1200.m3u8
+
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music",E24
+http://jio30.indmovies.in/jio/E_24_1200.m3u8
+
+#EXTINF:-1 group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
+http://jio30.indmovies.in/jio/Music_India_1200.m3u8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -1013,8 +1021,14 @@ http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_1200.m
 #EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Zee_Talkies
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_1200.m3u8?jct=oUJ7t2slMA4eVcgO8q2Bsg&pxe=1572256076&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
+#EXTINF:-1 group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="Marathi",Saam TV
+http://jio30.indmovies.in/jio/Saam_Tv_1200.m3u8
 
+#EXTINF:-1 group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi",Zee Talkies
+http://jio30.indmovies.in/jio/Zee_Talkies_1200.m3u8
 
+#EXTINF:-1 group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" group-title="Marathi",BBC Marathi
+http://jio30.indmovies.in/jio/BBC_Marathi_1200.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
