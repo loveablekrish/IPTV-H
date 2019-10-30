@@ -2,11 +2,11 @@
 Test
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Test",2
-http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_1200.m3u8?jct=L8Tj_jL_b1jfVQ15RA9scg&pxe=1572437908&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_600.m3u8?jct=L8Tj_jL_b1jfVQ15RA9scg&pxe=1572437908&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Test",3
-http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_1200.m3u8?jct=ZMjDoQ3GjcOYPm0ZRJ9Q8g&pxe=1572436911&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_600.m3u8?jct=ZMjDoQ3GjcOYPm0ZRJ9Q8g&pxe=1572436911&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 
 
@@ -15,7 +15,7 @@ http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkie
 
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Test",5
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_2000.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
