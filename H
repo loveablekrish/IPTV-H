@@ -1,8 +1,7 @@
 
 Test
-#EXTINF:-1 tvg-logo="N/A" group-title="Test",00
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_800.m3u8?jct=vyVlMiQfuTxAYxQn4bTvGQ&pxe=1572453616&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
+#EXTINF:-1 tvg-logo="N/A" group-title="Test",01
+http://sngprecdnems16.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Maiboli/Maiboli_800-1572453728000.ts?jct=gzq1amggO9IjbydaYY0MMw&pxe=1572456239&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
