@@ -185,6 +185,8 @@ http://jio30.indmovies.in/jio/Zee_Cinema_HD_8000.m3u8
 http://jio30.indmovies.in/jio/Star_GoldHD_8000.m3u8
 #EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HD Channels",Star Gold Select
 http://jio30.indmovies.in/jio/Star_Gold_Select_HD_8000.m3u8
+#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HD Channels",&Pictures HD
+http://jio30.indmovies.in/jio/And_Pictures_HD_8000.m3u8
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -500,8 +502,6 @@ http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|user-agent="Lavf/56.15.102"
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HD Channels",&Pictures HD
-http://jio30.indmovies.in/jio/And_Pictures_HD_8000.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="HD Channels",Star Movies HD
 http://jio30.indmovies.in/jio/Star_Movies_HD_8000.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="HD Channels",Star Movies Select HD
