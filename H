@@ -40,18 +40,6 @@ http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u
 #EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports", Star Sports 1 HD Hindi
 http://109.169.56.170/hls/starsports1.m3u8|user-agent="oxoo/1.0.5 (Linux;Android 9) ExoPlayerLib/2.7.3"
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1.png" group-title="HD Channels",Star Sports HD 1
-http://jio30.indmovies.in/jio/Star_Sports_HD1_8000.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD2.png" group-title="HD Channels",Star Sports HD 2
-http://jio30.indmovies.in/jio/Star_Sports_HD2_8000.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_HD1_Hindi.png" group-title="HD Channels",Star Sports HD 1 HINDI
-http://jio30.indmovies.in/jio/Star_Sports_HD1_Hindi_8000.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_1.png" group-title="HD Channels",Star Sports Select HD1
-http://jio30.indmovies.in/jio/Star_Sports_Select_HD_1_8000.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_Select_HD_2.png" group-title="HD Channels",Star Sports Select HD2
-http://jio30.indmovies.in/jio/Star_Sports_Select_HD_2_8000.m3u8
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
-http://jio30.indmovies.in/jio/Six_HD_1200.m3u8
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -161,28 +149,6 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_bharati/DD_bha
 #EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Hindi Entertainment",DD National
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_National/DD_National_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_PlusHD.png" group-title="HD Channels",Star Plus
-http://jio30.indmovies.in/jio/Star_PlusHD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png" group-title="HD Channels",Zee TV
-http://jio30.indmovies.in/jio/Zee_TV_HD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png" group-title="HD Channels",Sony HD
-http://jio30.indmovies.in/jio/Sony_HD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png" group-title="HD Channels",Colors HD
-http://jio30.indmovies.in/jio/Colors_HD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png" group-title="HD Channels",And TV
-http://jio30.indmovies.in/jio/And_TV_HD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png" group-title="HD Channels",Sony SAB
-http://jio30.indmovies.in/jio/Sony_SAB_HD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png" group-title="HD Channels",Sony Max HD
-http://jio30.indmovies.in/jio/Sony_Max_HD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png" group-title="HD Channels",Zee Cinema HD
-http://jio30.indmovies.in/jio/Zee_Cinema_HD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png" group-title="HD Channels",Star Gold HD
-http://jio30.indmovies.in/jio/Star_GoldHD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="https://www.exchange4media.com/news-photo/1520595397_Bt65eH_logo-white.jpg" group-title="HD Channels",Star Gold Select
-http://jio30.indmovies.in/jio/Star_Gold_Select_HD_8000.m3u8
-#EXTINF:-1 tvg-id="EPIC" group-title="Hindi Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HD Channels",&Pictures HD
-http://jio30.indmovies.in/jio/And_Pictures_HD_8000.m3u8
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -281,15 +247,7 @@ http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
 #EXTINF:-1 group-title="Hindi Music" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/SONY_MIX_LOGO_LATEST.jpg",Sony Mix
 http://sgdccdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Mastiii.png" group-title="Music",Mastii Music
-http://jio30.indmovies.in/jio/Mastiii_1200.m3u8
-
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/E_24.png" group-title="Music",E24
-http://jio30.indmovies.in/jio/E_24_1200.m3u8
-
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
-http://jio30.indmovies.in/jio/Music_India_1200.m3u8
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -502,14 +460,6 @@ http://95.170.215.118/hls/m3u8/Sky-MoviesPremie.m3u8|user-agent="Lavf/56.15.102"
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A", Sky Movies Select
 http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|user-agent="Lavf/56.15.102"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="https://en.wikipedia.org/wiki/Star_Movies#/media/File:STAR_Movies_logo.svg", Star Movies HD
-http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
-
-
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="HD Channels",Star Movies HD
-http://jio30.indmovies.in/jio/Star_Movies_HD_8000.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="HD Channels",Star Movies Select HD
-http://jio30.indmovies.in/jio/Star_Movies_Select_HD_8000.m3u8
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -581,18 +531,6 @@ http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_Wo
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_Good_Times_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 
-#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-name="BBC Earth HD Hindi FHD+" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_BBC_Earth_HD.png" group-title="HD Channels",BBC Earth HD
-http://jio30.indmovies.in/jio/Sony_BBC_Earth_HD_8000.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-name="HD Animal Planet FHD+" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Animal_Planet.png" group-title="HD Channels",HD Animal Planet
-http://jio30.indmovies.in/jio/Animal_Planet_HD_8000.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_HD_World.png" group-title="HD Channels",Discovery HD World
-http://jio30.indmovies.in/jio/Discovery_HD_World_8000.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="HD Channels",History 18 Hindi
-http://jio30.indmovies.in/jio/History_18_Hindi_8000.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/FYI_TV18.png" group-title="HD Channels",FYI TV 18
-http://jio30.indmovies.in/jio/FYI_TV18_8000.m3u8
-#EXTINF:-1 tvg-name="" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Travel_XP.png" group-title="HD Channels",Travel XP Hindi
-http://jio30.indmovies.in/jio/Travel_XP_8000.m3u8
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -1003,26 +941,10 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/TV9_Maharashtra/T
 #EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="https://www.medianews4u.com/wp-content/uploads/2016/05/fakte-marathi-logo-2.jpg",Fakt Marathi  
 http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Fakt_Marathi/Fakt_Marathi_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="N/A",Saam TV
-http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_600.m3u8?jct=ZMjDoQ3GjcOYPm0ZRJ9Q8g&pxe=1572436911&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
 #EXTINF:-1 group-title="Marathi" tvg-logo="N/A",BBC_Marathi
 http://jiocgehub.jio.ril.com/BBC_Marathi/BBC_Marathi_600.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="N/A",Maiboli
-http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_600.m3u8?jct=L8Tj_jL_b1jfVQ15RA9scg&pxe=1572437908&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Marathi" tvg-logo="N/A",Zee Talkies
-http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_600.m3u8?jct=Q-Ey_hrqY1qUTdsthQ0rSQ&pxe=1572438771&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Saam_Tv.png" group-title="Marathi",Saam TV
-http://jio30.indmovies.in/jio/Saam_Tv_1200.m3u8
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Talkies.png" group-title="Marathi",Zee Talkies
-http://jio30.indmovies.in/jio/Zee_Talkies_1200.m3u8
-
-#EXTINF:-1 group-title="Marathi" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_Marathi.png" group-title="Marathi",BBC Marathi
-http://jio30.indmovies.in/jio/BBC_Marathi_1200.m3u8
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
