@@ -5,6 +5,9 @@ Test
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Maiboli/Maiboli_600.m3u8?jct=L8Tj_jL_b1jfVQ15RA9scg&pxe=1572437908&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 
+EXTINF:-1 tvg-logo="N/A" group-title="Test",Saam_Tv
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_1200.m3u8?jct=ZMjDoQ3GjcOYPm0ZRJ9Q8g&pxe=1572436911&st=6op0x4EdfR70i1-hkQ_Qsw|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SPORTS
