@@ -938,7 +938,7 @@ https://starpravah-i.akamaihd.net/hls/live/569921-b/starpravah/master_2000.m3u8|
 http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Talkies/Zee_Talkies_800.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 
-#EXTINFEXTINF:-1 group-title="Marathi" tvg-logo="N/A",Saam TV
+#EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Saam TV
 http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Saam_Tv/Saam_Tv_800.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
