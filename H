@@ -48,6 +48,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeebanglasd
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/76cdd490a6d940638e6ce3aca6c9562a_1280X720.png",NEWS18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
+
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://uttarbangla.com/uploadedfile/BHXRDRMGM35622@L8C48.jpg",UttarBangla
 http://209.58.164.245/uttarbanglahls/live.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://rplus.in/wp-content/uploads/2018/12/ll-300x188.png",RPlus News
@@ -183,7 +184,8 @@ http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Maha_Movies/Ma
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Housefull_Action.png",HouseFull Movies
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/Housefull_Movies/Housefull_Movies_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-
+#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="N/A",Sony Max SD
+https://sony247channels.akamaized.net/hls/live/2002597/SonyMaxSD/master_900.m3u8|User-Agent="Mozilla/5.0 (Linux; Android 5.0.1; HTC One_M8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.76 Mobile Safari/537.36"
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
