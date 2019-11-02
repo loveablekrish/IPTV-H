@@ -27,8 +27,8 @@ http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u
 #EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports", Star Sports 1 HD Hindi
 http://109.169.56.170/hls/starsports1.m3u8|user-agent="oxoo/1.0.5 (Linux;Android 9) ExoPlayerLib/2.7.3"
 
-
-
+#EXTINF:-1 tvg-id="N/A" group-title="Sports", Star Sports 2 HD
+http://restream.iptvpak.com:8080/live/Zgjim_Halili/20/398.m3u8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
