@@ -321,7 +321,7 @@ https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_News/Zee_News_1200.m3u8?jct=_axzInFkZJWd-Vv48C0jdw&pxe=1572970194&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="Zee Business" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png",Zee Business
-http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Business/Zee_Business_600.m3u8?jct=9IbkK6eO1PefH0pwncFFLA&pxe=1572970309&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Business/Zee_Business_1200.m3u8?jct=9IbkK6eO1PefH0pwncFFLA&pxe=1572970309&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="Aaj Tak" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png", AajTak
 https://atcdnhttps.r.worldssl.net/at-origin/desktoplive/playlist.m3u8
@@ -390,7 +390,7 @@ http://b_cnbcprimehd_dv-lh.akamaihd.net/i/b_cnbcprimehd_dvr_1@100511/master.m3u8
 http://timesnow-lh.akamaihd.net/i/TNHD_1@129288/index_720_av-p.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/BBC_World_News.png",BBC World News
-http://sgdccdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/BBC_World_News/BBC_World_News_600.m3u8?jct=x38IyvMUljHwt0xWCS-SwQ&pxe=1572970452&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+http://sgdccdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/BBC_World_News/BBC_World_News_1200.m3u8?jct=x38IyvMUljHwt0xWCS-SwQ&pxe=1572970452&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Al-jazeera-logo.jpg",Aljazeera
 http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/AL_Jazeera/AL_Jazeera_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.3(Linux;Android 10)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
@@ -892,7 +892,7 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Punjabi" tvg-logo="logo N/A",PTC Punjabi Gold
-http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/PTC_Punjabi_Gold/PTC_Punjabi_Gold_600.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/PTC_Punjabi_Gold/PTC_Punjabi_Gold_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -939,7 +939,7 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/ABP_Majha/ABP_Majha_1200.m
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/TV9_Maharashtra/TV9_Maharashtra_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="N/A",BBC_Marathi
-http://jiocgehub.jio.ril.com/BBC_Marathi/BBC_Marathi_600.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+http://jiocgehub.jio.ril.com/BBC_Marathi/BBC_Marathi_1200.m3u8|User-Agent="plaYtv/5.8.0(Linux;Android6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 group-title="Marathi" tvg-logo="N/A",Starpravah
 https://starpravah-i.akamaihd.net/hls/live/569921-b/starpravah/master_2000.m3u8|User-Agent="Hotstar;in.startv.hotstar/8.1.6 (Linux;Android 5.0.1) ExoPlayerLib/2.9.5"
