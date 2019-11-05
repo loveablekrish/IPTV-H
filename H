@@ -82,7 +82,7 @@ http://smumcdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aakaash_bangla/Aakaash
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_Time_TV/News_Time_TV_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/24_Ghanta_logo.JPG",Zee 24 Ghanta 
-http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/24_Ghanta_TV/24_Ghanta_TV_600.m3u8?jct=ug6_obEx_GjrCCH2UmRImg&pxe=1572968385&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+http://sgdccdnems04.cdnsrv.jio.com/jiotv.live.cdn.jio.com/24_Ghanta_TV/24_Ghanta_TV_1200.m3u8?jct=ug6_obEx_GjrCCH2UmRImg&pxe=1572968385&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://viacom18-res.cloudinary.com/image/upload/f_auto,q_auto:low,fl_lossy/kimg/kimg/76cdd490a6d940638e6ce3aca6c9562a_1280X720.png",NEWS18 Bangla HQ
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/ETV_Bangla_News/ETV_Bangla_News_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
