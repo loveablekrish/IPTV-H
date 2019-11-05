@@ -95,8 +95,7 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Bangla/DD_Bang
 http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.3(Linux;Android 10)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/02/Kolkata_TV_2010.png",Kolkata TV
-https://m-c2-j2apps.s.llnwi.net/hls/5956.KolkataLive.in_480p/index.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.3(Linux;Android 10)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
-
+https://digiaws.nexg.tv/vodadigi/kolkatatv.smil/chunklist_w877204944_b524000.m3u8?wmsAuthSign=20191105222503964_15f261190e47ccc4862396b084e60b073a55acf9_d71b918dada5ff757523a9151d6db67f7715f60f&did=1572972903964&udid=BRuV3KRr+dA05a9tPNI4Gw==&item_id=CH704|User-Agent="exo"
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD
 http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
 
