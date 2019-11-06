@@ -27,16 +27,16 @@ http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u
 #EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports", Star Sports 1 HD Hindi
 http://109.169.56.170/hls/starsports1.m3u8|user-agent="oxoo/1.0.5 (Linux;Android 9) ExoPlayerLib/2.7.3"
 
-
-
-
-#EXTINF:-1 group-title="Sports", tvg-logo="N/A", Star Soprts 1 HD
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/2813.m3u8
-
-#EXTINF:-1 group-title="Sports", tvg-logo="N/A", Star Soprts 2 HD
-http://restream.geniptv.com:8080/live/live:sageevshantha/vf6nMKIQwq/2812.m3u8
-
-
+#EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports",Sky Sport 1
+http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports",Sky Sport 2
+http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports",Sky Sport 3
+http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports",Sky Sport 4
+http://95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8|user-agent="Lavf/56.15.102"
+#EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports",Sky Sport 5
+http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8|user-agent="Lavf/56.15.102"
 
 
 
@@ -464,6 +464,8 @@ http://95.170.215.118/hls/m3u8/Sky-MoviesSelect.m3u8|user-agent="Lavf/56.15.102"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English Channels" tvg-logo="logo N/A", The CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
+
+
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
