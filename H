@@ -246,13 +246,13 @@ English Music
 #EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg",9XO
 https://streamer.multitvsolution.in/live/9XO-b/p4.m3u8
 
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Music Choice"  group-title="English Music",Music Choice
+#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HitMusic channel"  group-title="English Music",HitMusic channel
+#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",HitMusic channel
 http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
 
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M2O TV"  group-title="Intl. Music",M2O Music
+#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="N/A",M2O Music
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
