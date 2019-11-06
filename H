@@ -160,7 +160,7 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sony_Max_HD/Sony_
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_MAX2/Sony_MAX2_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-https://z5ams.akamaized.net/zcinemahd/index.m3u8?hdnts=st=1572971959~exp=1572974959~acl=/*~hmac=f7f93abbccd0c7ef66c64fba59b59794c42bf653446329b2865b9c233e8bc1a8
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
 http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Action/Zee_Action_1200.m3u8?jct=DG3HpHfYDFyD5J6FndevPw&pxe=1572969374&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
