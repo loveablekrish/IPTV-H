@@ -994,6 +994,8 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/VTV_Gujarati/VTV_Gujarati_
 
 TELUGU
 ------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png", STAR MAA HS HD
+http://maatv-i.akamaihd.net/hls/live/569930/maatv/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Telugu" tvg-logo="https://paganresearch.io/images/YUPPTV.jpeg",  TBO
 https://d1fi19tywmn14b.cloudfront.net/yuppindmov/ngrp:ytelcla.stream_all/index.m3u8
