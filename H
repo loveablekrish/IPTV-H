@@ -219,9 +219,6 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Sony_Mix/Sony_Mix_1200.m3u
 #EXTINF:-1 tvg-id="9XM" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM 
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/9XM/9XM_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg",9XO
-https://streamer.multitvsolution.in/live/9XO-b/p4.m3u8
-
 #EXTINF:-1 tvg-id="9X Jalwa" group-title="Hindi Music" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_578/PORTRAIT/4a9d4053-fa52-4d71-a8d3-a05d19c5a711.jpg",9X Jalwa 
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/9X_Jalwa/9X_Jalwa_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
 
@@ -239,6 +236,24 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg",$ Dilse Hungama Hits
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
+
+
+---------------------------------------------------------------------------------------------------------------
+English Music
+
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="English Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b7/9XOEnglishMusicTelevisionChannelLogo.jpg",9XO
+https://streamer.multitvsolution.in/live/9XO-b/p4.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Music Choice"  group-title="English Music",Music Choice
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="HitMusic channel"  group-title="English Music",HitMusic channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="M2O TV"  group-title="Intl. Music",M2O Music
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -1338,23 +1353,160 @@ http://7mbd4ogkr3gx-hls-live.wmncdn.net/886/harvesttvlive1/bbb19eae240ec100af921
 
 
 
-WORLDWIDE
+Z5
 -----------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE", Q Stream
+#EXTINF:-1 tvg-id="id N/A" group-title="Z5 WORLDWIDE", Q Stream
 https://amg1-i.akamaihd.net/hls/live/784034/QYou.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zee Cinema US
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Action"  group-title="Z5 WORLDWIDE",Zee Action
+http://pockettv.xyz/api/zee.m3u8?c=action
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Cinema HD"  group-title="Z5 WORLDWIDE",Zee Cinema HD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Cinema SD"  group-title="Z5 WORLDWIDE",Zee Cinema SD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Cinema US"  group-title="Z5 WORLDWIDE",Zee Cinema US
 http://pockettv.xyz/api/zee.m3u8?c=cinemausa
-#EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zee Cinema UK
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Cinema UK"  group-title="Z5 WORLDWIDE",Zee Cinema UK
 http://pockettv.xyz/api/zee.m3u8?c=cinemauk
-#EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zee TV SD US
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="&TV SD"  group-title="Z5 WORLDWIDE",&TV SD
+http://pockettv.xyz/api/zee.m3u8?c=andtvsd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="&TV HD"  group-title="Z5 WORLDWIDE",&TV HD
+http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee TV SD"  group-title="Z5 WORLDWIDE",Zee TV SD
+http://pockettv.xyz/api/zee.m3u8?c=zeetvsd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee TV HD"  group-title="Z5 WORLDWIDE",Zee TV HD
+http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee TV SD US"  group-title="Z5 WORLDWIDE",Zee TV SD US
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
-#EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zee TV UK
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee TV HD US"  group-title="Z5 WORLDWIDE",Zee TV HD US
+http://pockettv.xyz/api/zee.m3u8?c=xtvhdusa
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee TV UK"  group-title="Z5 WORLDWIDE",Zee TV UK
 http://pockettv.xyz/api/zee.m3u8?c=ztvuk
-#EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zee TV MENA
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee TV MENA"  group-title="Z5 WORLDWIDE",Zee TV MENA
 http://pockettv.xyz/api/zee.m3u8?c=ztvme
-#EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zee TV Asia/Pacific
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee TV Asia/Pacific"  group-title="Z5 WORLDWIDE",Zee TV Asia/Pacific
 http://pockettv.xyz/api/zee.m3u8?c=apacsea
-#EXTINF:-1 tvg-id="id N/A" group-title="WORLDWIDE" tvg-logo="logo N/A",Zing US
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="9X Tashan"  group-title="Z5 WORLDWIDE",9X Tashan
+http://pockettv.xyz/api/zee.m3u8?c=9xtashan
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="9X Jalwa"  group-title="Z5 WORLDWIDE",9X Jalwa
+http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="9XO"  group-title="Z5 WORLDWIDE",9XO
+http://pockettv.xyz/api/zee.m3u8?c=9xo
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="9XM"  group-title="Z5 WORLDWIDE",9XM
+http://pockettv.xyz/api/zee.m3u8?c=9xm
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj MusiC (Telugu)"  group-title="Z5 WORLDWIDE",Raj MusiC (Telugu)
+http://pockettv.xyz/api/zee.m3u8?c=rajmusixtel
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj MusiC (Tamil)"  group-title="Z5 WORLDWIDE",Raj MusiC (Tamil)
+http://pockettv.xyz/api/zee.m3u8?c=rajmusix
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj MusiC (Malayalam)"  group-title="Z5 WORLDWIDE",Raj MusiC (Malayalam)
+http://pockettv.xyz/api/zee.m3u8?c=rajmusixmal
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj MusiC (Kannada)"  group-title="Z5 WORLDWIDE",Raj MusiC (Kannada)
+http://pockettv.xyz/api/zee.m3u8?c=rajmusic
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zing"  group-title="Z5 WORLDWIDE",Zing
+http://pockettv.xyz/api/zee.m3u8?c=zing
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zing US"  group-title="Z5 WORLDWIDE",Zing US
 http://pockettv.xyz/api/zee.m3u8?c=zingusa
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Big Magic"  group-title="Z5 WORLDWIDE",Big Magic
+http://pockettv.xyz/api/zee.m3u8?c=bigmagic
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Big Ganga"  group-title="Z5 WORLDWIDE",Big Ganga
+http://pockettv.xyz/api/zee.m3u8?c=bigganga
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="&Flix"  group-title="Z5 WORLDWIDE",&Flix
+http://pockettv.xyz/api/zee.m3u8?c=andflix
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Anmol"  group-title="Z5 WORLDWIDE",Zee Anmol
+http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Z5 WORLDWIDE",And Pictures HD
+http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures SD"  group-title="Z5 WORLDWIDE",And Pictures SD
+http://pockettv.xyz/api/zee.m3u8?c=andpicssd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj TV"  group-title="Z5 WORLDWIDE",Raj TV
+http://pockettv.xyz/api/zee.m3u8?c=rajtv
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj News 24x7"  group-title="Z5 WORLDWIDE",Raj News 24x7
+http://pockettv.xyz/api/zee.m3u8?c=rajnews
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj News (Telugu)"  group-title="Z5 WORLDWIDE",Raj News (Telugu)
+http://pockettv.xyz/api/zee.m3u8?c=rajnewstel
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj News (Tamil)"  group-title="Z5 WORLDWIDE",Raj News (Tamil)
+http://pockettv.xyz/api/zee.m3u8?c=rajnewskan
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj News (Malayalam)"  group-title="Z5 WORLDWIDE",Raj News (Malayalam)
+http://pockettv.xyz/api/zee.m3u8?c=rajnewsmal
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Raj News (Kannada)"  group-title="Z5 WORLDWIDE",Raj News (Kannada)
+http://pockettv.xyz/api/zee.m3u8?c=rajnewskan
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Living Foodz"  group-title="Z5 WORLDWIDE",Living Foodz
+http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee News"  group-title="Z5 WORLDWIDE",Zee News
+http://pockettv.xyz/api/zee.m3u8?c=zeenews
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="India Today"  group-title="Z5 WORLDWIDE",India Today
+http://pockettv.xyz/api/zee.m3u8?c=indiatoday
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="BBC World News"  group-title="Z5 WORLDWIDE",BBC World News
+http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Wion"  group-title="Z5 WORLDWIDE",Wion
+http://pockettv.xyz/api/zee.m3u8?c=wion
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Business"  group-title="Z5 WORLDWIDE",Zee Business
+http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Sarthak"  group-title="Z5 WORLDWIDE",Zee Sarthak
+http://pockettv.xyz/api/zee.m3u8?c=sarthaktv
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Kalinga"  group-title="Z5 WORLDWIDE",Zee Kalinga
+http://pockettv.xyz/api/zee.m3u8?c=kalinga
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Salaam"  group-title="Z5 WORLDWIDE",Zee Salaam
+http://pockettv.xyz/api/zee.m3u8?c=zeesalaam
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Rajasthan"  group-title="Z5 WORLDWIDE",Zee Rajasthan
+http://pockettv.xyz/api/zee.m3u8?c=rajasthan
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Punjabi"  group-title="Z5 WORLDWIDE",Zee Punjabi
+http://pockettv.xyz/api/zee.m3u8?c=punjabi
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Hindustan"  group-title="Z5 WORLDWIDE",Zee Hindustan
+http://pockettv.xyz/api/zee.m3u8?c=hindustan
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee ETC"  group-title="Z5 WORLDWIDE",Zee ETC
+http://pockettv.xyz/api/zee.m3u8?c=etc
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee MP CG"  group-title="Z5 WORLDWIDE",Zee MP CG
+http://pockettv.xyz/api/zee.m3u8?c=newsmpcg
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Yuva"  group-title="Z5 WORLDWIDE",Zee Yuva
+http://pockettv.xyz/api/zee.m3u8?c=zyuva
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee UP UK"  group-title="Z5 WORLDWIDE",Zee UP UK
+http://pockettv.xyz/api/zee.m3u8?c=zeenewsupuk
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Bihar JH"  group-title="Z5 WORLDWIDE",Zee Bihar JH
+http://pockettv.xyz/api/zee.m3u8?c=biharjharkh
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Satsang"  group-title="Z5 WORLDWIDE",Satsang
+http://pockettv.xyz/api/zee.m3u8?c=satsangtv
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Sanskar"  group-title="Z5 WORLDWIDE",Sanskar
+http://pockettv.xyz/api/zee.m3u8?c=sanskartv
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Telugu SD"  group-title="Z5 WORLDWIDE",Zee Telugu SD
+http://pockettv.xyz/api/zee.m3u8?c=zeetelegusd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Telugu HD"  group-title="Z5 WORLDWIDE",Zee Telugu HD
+http://pockettv.xyz/api/zee.m3u8?c=zeeteleguhd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Marathi HD"  group-title="Z5 WORLDWIDE",Zee Marathi HD
+http://pockettv.xyz/api/zee.m3u8?c=zmarathihd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Marathi SD"  group-title="Z5 WORLDWIDE",Zee Marathi SD
+http://pockettv.xyz/api/zee.m3u8?c=zmarathisd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Magic"  group-title="Z5 WORLDWIDE",Zee Magic
+http://pockettv.xyz/api/zee.m3u8?c=magic
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Classic"  group-title="Z5 WORLDWIDE",Zee Classic
+http://pockettv.xyz/api/zee.m3u8?c=classic
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Kannada"  group-title="Z5 WORLDWIDE",Zee Kannada
+http://pockettv.xyz/api/zee.m3u8?c=zkannada
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Cinemalu SD"  group-title="Z5 WORLDWIDE",Zee Cinemalu SD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemalusd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Cinemalu HD"  group-title="Z5 WORLDWIDE",Zee Cinemalu HD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemaluhd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Bangla HD"  group-title="Z5 WORLDWIDE",Zee Bangla HD
+http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Bangla SD"  group-title="Z5 WORLDWIDE",Zee Bangla SD
+http://pockettv.xyz/api/zee.m3u8?c=zeebanglasd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee 24 Taas"  group-title="Z5 WORLDWIDE",Zee 24 Taas
+http://pockettv.xyz/api/zee.m3u8?c=24taas
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee 24 Kalak"  group-title="Z5 WORLDWIDE",Zee 24 Kalak
+http://pockettv.xyz/api/zee.m3u8?c=kalak
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee 24 Ghanta"  group-title="Z5 WORLDWIDE",Zee 24 Ghanta
+http://pockettv.xyz/api/zee.m3u8?c=24ghanta
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee World"  group-title="Z5 WORLDWIDE",Zee World
+http://pockettv.xyz/api/zee.m3u8?c=world
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="&Prive HD"  group-title="Z5 WORLDWIDE",&Prive HD
+http://pockettv.xyz/api/zee.m3u8?c=andprivehd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="&Prive SD"  group-title="Z5 WORLDWIDE",&Prive SD
+http://pockettv.xyz/api/zee.m3u8?c=andprivesd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Cafe HD"  group-title="Z5 WORLDWIDE",Zee Cafe HD
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Cafe SD"  group-title="Z5 WORLDWIDE",Zee Cafe SD
+http://pockettv.xyz/api/zee.m3u8?c=zeecafehd
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="&Flix HD"  group-title="Z5 WORLDWIDE",&Flix HD
+http://pockettv.xyz/api/zee.m3u8?c=andflixhd
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
