@@ -33,14 +33,6 @@ http://109.169.56.170/hls/starsportsselect2.m3u8
 
 #EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/57/Sky_Sports_Main_Event.svg",Sky Sports Main Event
 http://95.170.215.120/hls/m3u8/Sky-Sports-1HD.m3u8|user-agent="Lavf/56.15.102"
-#EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/6/6b/Sky_Sports_Action.svg",Sky Sports Action
-http://95.170.215.120/hls/m3u8/Sky-Sports-2HD.m3u8|user-agent="Lavf/56.15.102"
-#EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports" tvg-logo="https://sportsrecents.com/images/sky-sports-premier.png",Sky Sports Premier
-http://95.170.215.120/hls/m3u8/Sky-Sports-3HD.m3u8|user-agent="Lavf/56.15.102"
-#EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports" tvg-logo="n/a",Sky Sport 4
-http://95.170.215.120/hls/m3u8/Sky-Sports-4HD.m3u8|user-agent="Lavf/56.15.102"
-#EXTINF:-1 tvg-id="Ten 1 HD" group-title="Sports" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/80/Sky_Sports_Cricket.svg",Sky Sport Cricket
-http://95.170.215.120/hls/m3u8/Sky-Sports-5HD.m3u8|user-agent="Lavf/56.15.102"
 
 
 
