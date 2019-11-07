@@ -1,4 +1,19 @@
+Test
 
+#EXTINF:0, group-title="Test",Zee Bangla
+http://z5ams.akamaized.net/zeebanglasd/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Test",ETV Bangla
+https://etv-bangla-news.akamaized.net/i/etv_bangla_news_live_1@2289/index_5_av-p.m3u8
+
+#EXTINF:0, group-title="Test",Kolkatta TV
+http://mhms9.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226404/index.m3u8
+
+#EXTINF:0, group-title="Test",Zee 24 Ghanta
+http://z5ams.akamaized.net/24ghanta/tracks-v1a1/index.m3u8
+
+#EXTINF:0, group-title="Test",Zee Bangla HD
+http://z5ams.akamaized.net/zeebanglahd/tracks-v1a1/index.m3u8
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SPORTS
