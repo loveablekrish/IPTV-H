@@ -25,9 +25,6 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Sports/DD_Spor
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="", Star Sports 1 HD Hindi
 http://109.169.56.170/hls/starsports1.m3u8|user-agent="oxoo/1.0.5 (Linux;Android 9) ExoPlayerLib/2.7.3"
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="", Star Sports 1
-http://163.172.29.246:8081/globe/starsports1/chunks.m3u8
-
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/star-select-hd1-large.png", Star Sports Select1
 http://109.169.56.170/hls/starsportsselect1.m3u8
 
