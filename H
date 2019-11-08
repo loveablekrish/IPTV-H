@@ -31,11 +31,6 @@ http://109.169.56.170/hls/starsportsselect1.m3u8
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="https://img1.hotstarext.com/image/upload/f_auto,t_hcdl/sources/r1/cms/prod/7437/567437-h", Star Sports Select2
 http://109.169.56.170/hls/starsportsselect2.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="", Jio Cricket Eng
-http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd1/Jio_Cricket_HLS/3.m3u8?jct=oBVrSH6TJkqF2QSOJoyXSA&pxe=1573150077&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.3 (Linux;Android 10) ExoPlayerLib/2.8.0"
-
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="", Jio Cricket Hindi
-http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/packagerx_mpd1/Jio_Cricket_Hindi_HLS/3.m3u8?jct=PtEv_m14O2zyWKyD3oxKRA&pxe=1573150216&st=rhski-AotoQ42NGKsNbG9A|User-Agent="plaYtv/5.8.3 (Linux;Android 10) ExoPlayerLib/2.8.0"
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
