@@ -333,7 +333,7 @@ https://republic.pc.cdn.bitgravity.com/live/bharat_hls/chunklist_0.m3u8
 #EXTINF:-1 tvg-id="Zee Hindustan" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Hindustan.png",Zee Hindustan
 http://pockettv.xyz/api/zee.m3u8?c=hindustan
 
-#EXTINF:-1 tvg-id="Tez" group-title="Hindi News 2" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599025s.png",TEZ News
+#EXTINF:-1 tvg-id="Tez" group-title="Hindi News" tvg-logo="https://image3.mouthshut.com/images/imagesp/925599025s.png",TEZ News
 https://hsaajtak-i.akamaihd.net/hls/live/719730/tezevent/tez_6/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" group-title="Hindi News" tvg-logo="https://2llos6vjz1k3skmx03njbqdc-wpengine.netdna-ssl.com/wp-content/uploads/2019/08/LOGO_png.png",Janta TV
@@ -341,6 +341,9 @@ http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 
 #EXTINF:-1 tvg-id="EPG N/A" group-title="Hindi News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/df/24-7_News_logo.png",24x7 News
 http://edge-ind.inapcdn.in:1935/device2/camera2.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_News.png" group-title="Hindi Entertainment",DD News
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_News/DD_News_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
