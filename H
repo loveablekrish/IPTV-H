@@ -4,14 +4,14 @@
 SPORTS
 
 ------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports", Sony Ten 1
-http://mumsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_1/Ten_1_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports", Sony Ten 1 HD
+http://sgdccdnems02.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten_HD/Ten_HD_1200.m3u8?jct=LDxxnupVjc96vw7ufiUzEg&pxe=1575228889&st=dN8CLzUhgjWn6beMAIzdxg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony Ten2 HD
 http://sngprecdnems14.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Ten2_HD/Ten2_HD_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 
-#EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Ten 3 HD JTV HD
+#EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Ten 3 HD
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Ten3_HD/Ten3_HD_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
@@ -74,7 +74,7 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sangeet_Bangla/Sa
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Bangla/DD_Bangla_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Bangla
-http://sgdccdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+http://sgdccdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_1200.m3u8?jct=2BJdfy5oBfk_LBCaH2CwTQ&pxe=1575228700&st=dN8CLzUhgjWn6beMAIzdxg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/24_Ghanta_logo.JPG",Zee 24 Ghanta 
