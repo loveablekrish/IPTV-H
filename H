@@ -1,6 +1,9 @@
 
 #EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",CN
 http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_1200.m3u8?jct=ZZ1f5BjejMdBqJE-8Vlw8Q&pxe=1575277095&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",D Kids
+http://sngprecdnems11.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_800.m3u8?jct=XTiktHLZkP5A1egoPex7kQ&pxe=1575277668&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SPORTS
