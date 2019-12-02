@@ -1,10 +1,6 @@
 
 #EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/TLC_HD_World/TLC_HD_World_1200.m3u8?jct=aNqkjaxjRoOzKtDWW9DYNA&pxe=1575278188&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-
-#EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST2
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/NDTV_Good_Times/NDTV_Good_Times_1200.m3u8?jct=Dep_uVpUegYPkJHPLWZa-A&pxe=1575278442&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 SPORTS
 
@@ -550,7 +546,7 @@ http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|user-agent="Lavf/56.15.102"
 http://95.170.215.118/hls/m3u8/Boomerang.m3u8|user-agent="Lavf/56.15.102"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="N/A",Cartoon_Network_Hindi
-http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_1200.m3u8?jct=ZZ1f5BjejMdBqJE-8Vlw8Q&pxe=1575277095&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+http://smumcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Cartoon_Network_Hindi/Cartoon_Network_Hindi_800.m3u8?jct=ZZ1f5BjejMdBqJE-8Vlw8Q&pxe=1575277095&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
