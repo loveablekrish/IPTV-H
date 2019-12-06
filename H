@@ -1,5 +1,6 @@
 
 #EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
+https://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master.m3u8?faxs=1&hdnea=st=1575667648~exp=1575671248~acl=/*~hmac=7ceef5f7e03c4fa598f0b5404e77855f321be477582b4276a3d1868516188013|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
