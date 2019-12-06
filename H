@@ -24,9 +24,6 @@ http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Onkar_Only_Truth/Onkar
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD
 https://itpolly.iptv.digijadoo.net/live/colors_bangla_hd/chunks.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="N/A",Gaan Bangla
-https://edge4.bioscopelive.com/hls/v5T0YPUk2VOvsa7NynEDAQ/1575622408/gaan_bangla.m3u8
-
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla", Star Jalsha HD
 https://starjalsa-i.akamaihd.net/hls/live/569902-b/starjalsa/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
