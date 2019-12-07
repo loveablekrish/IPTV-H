@@ -105,10 +105,10 @@ Hindi Entertainment
 --------------------
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1575742940~acl=%2f*~data=hdntl~hmac=6023d6557e8bae483a7817d8510af5470ea3c0e1716579f996e014dede60cfd8/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1575837116~acl=%2f*~data=hdntl~hmac=800e99c25ae1e5a5259b143a1a32f2ae63dcdb15e6edb879461d68f54a5479c8/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
-https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=1575743092~acl=%2f*~data=hdntl~hmac=ce8d75ed188f17d2031ef8db84e5b28f6f8beb9dfec7b4d3111be5664cc26b3c/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=1575838364~acl=%2f*~data=hdntl~hmac=574f05b3b171dc4a54572e5b909b12ecb5ef1304cf5a8241aaf8fba8d1c338f6/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
