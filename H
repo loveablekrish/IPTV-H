@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST0
+EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST0
 http://zer0live.hjkm.info:13292/neptune/colorstv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvNy8yMDE5IDY6Mzc6MTEgQU0maGFzaF92YWx1ZT1tRzV4enRaYWNxS3RMVDE4Yk96cDZnPT0mdmFsaWRtaW51dGVzPTI=|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -325,7 +325,7 @@ http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",DiscoverScienceHindi
 http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 
-#EXTINF:-1 tvg-name="BBC Earth HD English HD" tvg-id="SONY BBC EARTH" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/150?cb=20171204084854",BBC Earth HD English HD
+EXTINF:-1 tvg-name="BBC Earth HD English HD" tvg-id="SONY BBC EARTH" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/150?cb=20171204084854",BBC Earth HD English HD
 https://sony247channels.akamaized.net/hls/live/2002597/SonyBBCEarthHD/hdntl=exp=1575746664~acl=%2f*~data=hdntl~hmac=7ed1317e502ec403d31e801245856afef4d4ed56f6283d5cd0774d0b6ce00e18/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="Living Foodz HD" group-title="Infotainment" tvg-logo="N/A",Living Foodz HD
