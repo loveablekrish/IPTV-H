@@ -69,19 +69,14 @@ http://sngprecdnems11.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Discovery_Channel
 SPORTS
 
 ------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten_1.png" group-title="Sports", Sony Ten 1 HD
-https://sony247channels.akamaized.net/hls/live/2008244/SonyTen1HD/hdntl=exp=1575744420~acl=%2f*~data=hdntl~hmac=e19b8df05c83fbaea184022c1b99ba575d5077bd8a44f08a87602a8bc97baf8f/master_3868.m3u8
-
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png" group-title="Sports", Sony Ten2 HD
-https://sony247channels.akamaized.net/hls/live/2008245/SonyTen2HD/hdntl=exp=1575744507~acl=%2f*~data=hdntl~hmac=8a2edb8c33cf685dc3c13d340c31e9ce855a53ff566fb41eb3d01e10105e6baa/master_2128.m3u8
-
-#EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
+#
+EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
 https://sony247channels.akamaized.net/hls/live/2008245/SonyTen3HD/hdntl=exp=1575744563~acl=%2f*~data=hdntl~hmac=61c8b92c9eaafb60830f8bf95429acf116cb2568f809804f345ed51a98880e0a/master_3868.m3u8
 
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
+EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
 https://sony247channels.akamaized.net/hls/live/2008244/SonySIXHD/hdntl=exp=1575744346~acl=%2f*~data=hdntl~hmac=3ca39d37fbce8b2234f50cb8662866c3e294324d26d85c5157e502a1be4a5946/master_2128.m3u8
 
-#EXTINF:-1 tvg-id="DD Sports" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_HD.png", ESPN 
+EXTINF:-1 tvg-id="DD Sports" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_ESPN_HD.png", ESPN 
 https://sony247channels.akamaized.net/hls/live/2008244/SonyESPNHD/hdntl=exp=1575744691~acl=%2f*~data=hdntl~hmac=db4c34948d5d59c86548d60137d01c498798a757ad02c1ccba11d066fd86a7cc/master_2128.m3u8
 
 #EXTINF:-1 tvg-id="DD Sports" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Sports.png",DD Sports
