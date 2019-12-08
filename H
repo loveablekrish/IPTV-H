@@ -123,7 +123,7 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1200.m3u8|Use
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_HD.png",Star Utsav HD
 http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
-#EXTINF:-1 tvg-id="Sony Pal" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
+EXTINF:-1 tvg-id="Sony Pal" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
 https://sony247channels.akamaized.net/hls/live/2002640/SonyPalSD/hdntl=exp=1575743832~acl=%2f*~data=hdntl~hmac=0ddf9471d954f3d89f1954677ebade5f0e778c7f4f73f982e743e8fb1e4fc582/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="Z Anmol" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
