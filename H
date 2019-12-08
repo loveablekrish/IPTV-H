@@ -1,6 +1,6 @@
 
-EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST0
-http://163.172.86.251:25461/live/sourceuksnow/7082310538/3041.m3u8?token=GBUOBxJfRw4VAwZeWgkGCANTUgZTAlRSClYLVgsJAQVVVQQFUABSUVEQHkQQREdVUwluCgdGWQMCAwMfEEVCVRFoDwJDDUcHFR4QEgpdUBIIVB1BEw0HEggVAAcKAgMSTxUDHhVSF1pWXm0CBkZcU1dGCw0WCA8cEFhcbFZVXFENU0RcQwdHGBVbQRZBCltFXggdQQENF0JTQ1cRCBIECVoCREpDVApBWUZAH0EKF3l8Rh1BBhwXVVxEW1xcEgsSDgQTXkMbR11EbUADEERHVVMJVBFBXkEBEBsQXlNIblMMWQgDAkMMW1lBEFxBAQUAAlQTT0EJDF5bQ11BbUBYVEENRFdUAlICFU8=|User-Agent="androidwave/3.6 (Linux;Android 9) ExoPlayerLib/2.7.3"
+#EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
+https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
