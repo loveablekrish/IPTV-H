@@ -71,7 +71,7 @@ SPORTS
 ------------------------------------------------------------------------------------------
 #
 EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
-https://sony247channels.akamaized.net/hls/live/2008245/SonyTen3HD/hdntl=exp=1575744563~acl=%2f*~data=hdntl~hmac=61c8b92c9eaafb60830f8bf95429acf116cb2568f809804f345ed51a98880e0a/master_3868.m3u8
+https://sony247channels.akamaized.net/hls/live/2008245/SonyTen3HD/hdntl=exp=1575744563~acl=%2f*~data=hdntl~hmac=61c8b92c9eaafb60830f8bf95429acf1
 
 EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
 https://sony247channels.akamaized.net/hls/live/2008244/SonySIXHD/hdntl=exp=1575744346~acl=%2f*~data=hdntl~hmac=3ca39d37fbce8b2234f50cb8662866c3e294324d26d85c5157e502a1be4a5946/master_2128.m3u8
@@ -100,10 +100,10 @@ Hindi Entertainment
 --------------------
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1575837116~acl=%2f*~data=hdntl~hmac=800e99c25ae1e5a5259b143a1a32f2ae63dcdb15e6edb879461d68f54a5479c8/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1575959825~acl=%2f*~data=hdntl~hmac=17ba48b1184294971346c2cf10dc7fe8c615f5bbd55772da1782bf467fc33ad0/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
-https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=1575838364~acl=%2f*~data=hdntl~hmac=574f05b3b171dc4a54572e5b909b12ecb5ef1304cf5a8241aaf8fba8d1c338f6/master_3500.m3u8
+https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=1575959955~acl=%2f*~data=hdntl~hmac=bb6ddf21aca1292a357f2775de7fd7377fe6dbb254b2de1ebb7dfefde5c7d96c/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
