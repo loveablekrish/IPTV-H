@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
-https://itpolly.iptv.digijadoo.net/live/colors_hd/chunks.m3u8
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
