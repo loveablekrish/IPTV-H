@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
+EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -109,8 +109,8 @@ https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=157583836
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 
 #EXTINF:-1 tvg-id="Colors HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
-http://163.172.86.251:25461/live/sourceuksnow/7082310538/3041.m3u8?token=GBUOBxJfRw4VAwZeWgkGCANTUgZTAlRSClYLVgsJAQVVVQQFUABSUVEQHkQQREdVUwluCgdGWQMCAwMfEEVCVRFoDwJDDUcHFR4QEgpdUBIIVB1BEw0HEggVAAcKAgMSTxUDHhVSF1pWXm0CBkZcU1dGCw0WCA8cEFhcbFZVXFENU0RcQwdHGBVbQRZBCltFXggdQQENF0JTQ1cRCBIECVoCREpDVApBWUZAH0EKF3l8Rh1BBhwXVVxEW1xcEgsSDgQTXkMbR11EbUADEERHVVMJVBFBXkEBEBsQXlNIblMMWQgDAkMMW1lBEFxBAQUAAlQTT0EJDF5bQ11BbUBYVEENRFdUAlICFU8=||User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 #EXTINF:-1 tvg-id="Andtv HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
