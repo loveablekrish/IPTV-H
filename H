@@ -499,8 +499,8 @@ http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/CNBC_Bazaar_MN
 #EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",Zee_24_Kalak
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_24_Kalak/Zee_24_Kalak_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",Zee_24_Kalak
-http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/VTV_Gujarati/VTV_Gujarati_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",VTV_Gujarati
+http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/VTV_Gujarati/VTV_Gujarati_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",ValambhaktiHD
 https://m-c08-j2apps.s.llnwi.net/hls/6518.ValambhaktiHD.in_480p/index.m3u8
