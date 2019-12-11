@@ -480,8 +480,21 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies", Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e7/ABP_Asmita.jpg/revision/latest?cb=20171220151145",ABP Asmita
+https://abp-i.akamaihd.net:443/hls/live/765532/abpasmita/master.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png",GSTV
+https://cdnlive.livecast.io/560828843292539228453915.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",CNBC Bazar
+http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/CNBC_Bazaar_MNO/CNBC_Bazaar_MNO_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+
+
+
