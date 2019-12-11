@@ -247,7 +247,7 @@ http://sngprecdnems13.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/NDTV_India/NDT
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/21/India_News.png/revision/latest/scale-to-width-down/280?cb=20190307102152" group-title="Hindi News",India News
-https://sony-yupp.akamaized.net/hls/live/2004617/IndiaTV/IndiaTV_600/chunklist.m3u8
+https://streamer.multitvsolution.in/IndiaNews-e/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Taaza_TV.png",Taaza TV 
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Taaza_TV/Taaza_TV_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
@@ -258,7 +258,7 @@ http://ssrigcdnems01.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Jan_TV/Jan_TV_1200.m3
 #EXTINF:-1 tvg-id="R Bharat" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/36/TV9_Bharatvarsh.jpg" group-title="Hindi News", TV9 Bharatvarsh
 https://hshlsnews4-i.akamaihd.net/hls/live/571523/tv9bharatvarshevent/tv9bharatvarsh_6/chunklist.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
-#EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="India Today"  group-title="Hindi News",India Today
+EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="India Today"  group-title="Hindi News",India Today
 http://pockettv.xyz/api/zee.m3u8
 
 #EXTINF:-1 tvg-id="R Bharat" group-title="Hindi News" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Republic_Bharat.jpg/revision/latest?cb=20181127101931",Republic Bharat
