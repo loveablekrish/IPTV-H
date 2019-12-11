@@ -245,9 +245,6 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/CNBC_Awaaz/CNBC_Awaaz_1200
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_India.png",NDTV INDIA 
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/NDTV_India/NDTV_India_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
-
-
-
 #EXTINF:-1 tvg-id="News 18 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/News_18_India.png" group-title="Hindi News",News 18 India
 https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
 
