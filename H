@@ -71,8 +71,11 @@ SPORTS
 
 ------------------------------------------------------------------------------------------
 #
-EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
-https://sony247channels.akamaized.net/hls/live/2008245/SonyTen3HD/hdntl=exp=1575744563~acl=%2f*~data=hdntl~hmac=61c8b92c9eaafb60830f8bf95429acf1
+#EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
+http://163.172.85.133:8080/TenS/1/index.m3u8
+
+#EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3 HD
+http://163.172.85.133:8080/TenS/3/index.m3u8
 
 EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Six_HD.png" group-title="Sports",Sony Six HD
 https://sony247channels.akamaized.net/hls/live/2008244/SonySIXHD/hdntl=exp=1575744346~acl=%2f*~data=hdntl~hmac=3ca39d37fbce8b2234f50cb8662866c3e294324d26d85c5157e502a1be4a5946/master_2128.m3u8
