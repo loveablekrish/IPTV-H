@@ -470,15 +470,15 @@ https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies",Movieplus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",ABZY Dhakad
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/AA"  group-title="Hindi Movies",ABZY Dhakad
 https://m-c01-j2apps.s.llnwi.net/hls/6641.SkystarFilme.in_480p/index.m3u8
 
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",Multiplex.in
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies",Multiplex.in
 https://m-c29-j2apps.s.llnwi.net/hls/3223.Multiplex.in_480p/index.m3u8
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",HousefullMovie
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies",HousefullMovie
 https://m-c04-j2apps.s.llnwi.net/hls/7000.HousefullMovie.in_480p/index.m3u8
 
-#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",mbc_bolly
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies",mbc_bolly
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies", Shemaroo Classic
