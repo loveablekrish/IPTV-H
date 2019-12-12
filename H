@@ -71,6 +71,12 @@ SPORTS
 
 ------------------------------------------------------------------------------------------
 #
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Espn
+https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="N/A",Sony Ten 2 
 http://163.172.85.133:8080/TenS/1/index.m3u8
 
