@@ -186,7 +186,7 @@ http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg",Nazrana (Ghazals)
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://cdn.imgbin.com/25/16/6/imgbin-apple-music-logo-itunes-apps-itunes-logo-n1m3ZyA8iUE1QYMrLqViWd5CT.jpg",$ JOO MUSIC
+EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://cdn.imgbin.com/25/16/6/imgbin-apple-music-logo-itunes-apps-itunes-logo-n1m3ZyA8iUE1QYMrLqViWd5CT.jpg",$ JOO MUSIC
 https://streamer12.vdn.dstreamone.net/joomusic/joomusic/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg",$ Kadak Hungama Hits
