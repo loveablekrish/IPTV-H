@@ -114,7 +114,7 @@ Hindi Entertainment
 https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1576230558~acl=%2f*~data=hdntl~hmac=de3b64d69ea273bdccdd16f8ef560fbaabdf3083143afeb8cca84a45672acb0d/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
-https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=1576230905~acl=%2f*~data=hdntl~hmac=818d5696d308735ccaab922a2f7814e8d46b6aaf43df43510ecbf250215a96df/master_3500.m3u8
+https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
