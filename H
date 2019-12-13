@@ -120,8 +120,8 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 Hindi Entertainment
 --------------------
 
-EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-https://sony247channels.akamaized.net/hls/live/2008252/SETHD/hdntl=exp=1576230558~acl=%2f*~data=hdntl~hmac=de3b64d69ea273bdccdd16f8ef560fbaabdf3083143afeb8cca84a45672acb0d/master_3500.m3u8
+#EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+https://sony247channels.akamaized.net/linear/hls/pa/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/1483e823-9c14-432c-a4d1-52634df6d04c:SIN/variant/48ac061cd3b3208d080a3da42b25746a/bandwidth/hdntl=exp=1576349137~acl=%2f*~data=hdntl~hmac=f0d13b5d74637cc6e1ced272208010ef0edb7d6131baec4c3ddf1c73c57cae40/3990800.m3u8
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
@@ -129,8 +129,8 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
-EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
-https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=1576235330~acl=%2f*~data=hdntl~hmac=3fe202d5d26e21cb8781404cb362bdd2ebf4148f4981e29f45ff3cb60830d6e6/master_3500.m3u8
+#EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
+https://sony247channels.akamaized.net/linear/hls/pa/event/UI4QFJ_uRk6aLxIcADqa_A/stream/95a43480-6f47-43c3-827a-a6c62e5f6d32:SIN/variant/d7631ebbae8dd44cc671c71fa18174ec/bandwidth/hdntl=exp=1576349360~acl=%2f*~data=hdntl~hmac=dbce374204a7eb379c09ca2ffb55b9a40260317f2ecc6a770d39c4876612add4/3990800.m3u8
 
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
