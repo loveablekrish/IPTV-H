@@ -121,7 +121,7 @@ Hindi Entertainment
 --------------------
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-https://sony247channels.akamaized.net/linear/hls/pa/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/1483e823-9c14-432c-a4d1-52634df6d04c:SIN/variant/48ac061cd3b3208d080a3da42b25746a/bandwidth/hdntl=exp=1576349137~acl=%2f*~data=hdntl~hmac=f0d13b5d74637cc6e1ced272208010ef0edb7d6131baec4c3ddf1c73c57cae40/3990800.m3u8
+https://sony247channels.akamaized.net/linear/hls/pa/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/d6bb8799-0bbe-4b16-be6b-9ca0eb2b55f2:SIN/variant/48ac061cd3b3208d080a3da42b25746a/bandwidth/hdntl=exp=1576377413~acl=%2f*~data=hdntl~hmac=4682d1be20d89009f06208a0a02e1b5bf1701147174541b8f8f7d00443fa431c/3990800.m3u8
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
@@ -130,8 +130,7 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
-https://sony247channels.akamaized.net/linear/hls/pa/event/UI4QFJ_uRk6aLxIcADqa_A/stream/95a43480-6f47-43c3-827a-a6c62e5f6d32:SIN/variant/d7631ebbae8dd44cc671c71fa18174ec/bandwidth/hdntl=exp=1576349360~acl=%2f*~data=hdntl~hmac=dbce374204a7eb379c09ca2ffb55b9a40260317f2ecc6a770d39c4876612add4/3990800.m3u8
-
+https://sony247channels.akamaized.net/linear/hls/pa/event/UI4QFJ_uRk6aLxIcADqa_A/stream/0e43b571-ac47-465d-88c6-3ecfaa0981b9:SIN/variant/d7631ebbae8dd44cc671c71fa18174ec/bandwidth/hdntl=exp=1576377640~acl=%2f*~data=hdntl~hmac=b90316b6e7673f45ec6a58fe729346ba8d8ecdc92688760e474eef62cac30e38/3990800.m3u8
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 
