@@ -135,6 +135,9 @@ https://sony247channels.akamaized.net/linear/hls/pa/event/UI4QFJ_uRk6aLxIcADqa_A
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 
+#EXTINF:-1 tvg-id="id N/A" group-title="Entertainment"  ,tvg-logo="logo N/A",Zee TV SD US
+http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
+
 #EXTINF:-1 tvg-id="Colors HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
@@ -162,6 +165,12 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Entertainment", The CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
+EXTINF:-1 tvg-id="id N/A" group-title="Entertainment", tvg-logo="logo N/A",Big Magic
+http://pockettv.xyz/api/zee.m3u8?c=bigmagic
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Entertainment", tvg-logo="logo N/A",Big Ganga
+http://pockettv.xyz/api/zee.m3u8?c=bigganga
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -467,6 +476,8 @@ https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=157614284
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema SD
+http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
 http://pockettv.xyz/api/zee.m3u8?c=action
@@ -476,6 +487,8 @@ http://pockettv.xyz/api/zee.m3u8?c=classic
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+#EXTINF:-1 tvg-id="id N/A"group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures SD
+http://pockettv.xyz/api/zee.m3u8?c=andpicssd
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png",Star Gold 
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
@@ -511,36 +524,53 @@ http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies", Shemaroo Classic
 https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_1920x1080_cf.m3u8
+#EXTINF:0, group-title="Hindi Movies",b4u kadak
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF:0, group-title="Hindi Movies",WOW CINEMA
+http://streamer.multitvsolution.in//live/WowCinema-d/p4.m3u8
+
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Gujrati
+Gujrati & Devotional
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e7/ABP_Asmita.jpg/revision/latest?cb=20171220151145",ABP Asmita
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e7/ABP_Asmita.jpg/revision/latest?cb=20171220151145",ABP Asmita
 https://abp-i.akamaihd.net/hls/live/765532-b/abpasmita/masterhls_1564.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png",GSTV
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/GS_TV.png",GSTV
 https://cdnlive.livecast.io/560828843292539228453915.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",CNBC Bazar
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" tvg-logo="N/A",CNBC Bazar
 http://sngprecdnems15.cdnsrv.jio.com:80/jiotvstb.live.cdn.jio.com/CNBC_Bazaar_MNO/CNBC_Bazaar_MNO_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",Zee_24_Kalak
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" tvg-logo="N/A",Zee_24_Kalak
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Zee_24_Kalak/Zee_24_Kalak_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",VTV_Gujarati
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional"tvg-logo="N/A",VTV_Gujarati
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/VTV_Gujarati/VTV_Gujarati_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",ValambhaktiHD
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" tvg-logo="N/A",ValambhaktiHD
 https://m-c08-j2apps.s.llnwi.net/hls/6518.ValambhaktiHD.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",LakshyaTV
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" tvg-logo="N/A",LakshyaTV
 https://m-c04-j2apps.s.llnwi.net/hls/1738.LakshyaTV.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",HamariSanskrutiTV
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" tvg-logo="N/A",HamariSanskrutiTV
 https://m-c04-j2apps.s.llnwi.net/hls/6652.HamariSanskrutiTV.in_480p/index.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati" tvg-logo="N/A",IndiaNewsGujarat
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" tvg-logo="N/A",IndiaNewsGujarat
 https://streamidvo.multitvsolution.in/live/IndiaNewsGujarat-c/p4.m3u8
+
+#EXTINF:-1 tvg-id="id N/A"group-title="Gujrati & Devotional"  ,tvg-logo="logo N/A",Satsang
+http://pockettv.xyz/api/zee.m3u8?c=satsangtv
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" ,tvg-logo="logo N/A",Sanskar
+http://pockettv.xyz/api/zee.m3u8?c=sanskartv
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" ,tvg-logo="logo N/A",SaiTV 
+http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/SaiTV/SaiTV_1200.m3u8?jct=6MJoB0Dy56Qe1rPEoTYCVA&pxe=1574833277&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="plaYtv/5.8.0(Linux;Android 6.0.1)ExoPlayerLib/2.8.0%20Gecko/48.0%20Firefox/48.0%20KAIOS/2.0"
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Gujrati & Devotional" ,tvg-logo="logo N/A",Yoga TV Swamiji
+http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
