@@ -151,10 +151,16 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
 
 #EXTINF:-1 tvg-id="Colors HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43856
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43866
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Entertainment"  ,tvg-logo="logo N/A",Bindas 
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43874
 
 #EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43843
@@ -175,10 +181,19 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1200.m3u8|Use
 http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 EXTINF:-1 tvg-id="Sony Pal" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Pal.png",Sony Pal
-https://sony247channels.akamaized.net/hls/live/2002640/SonyPalSD/hdntl=exp=1575743832~acl=%2f*~data=hdntl~hmac=0ddf9471d954f3d89f1954677ebade5f0e778c7f4f73f982e743e8fb1e4fc582/master_3500.m3u8
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
+
 
 #EXTINF:-1 tvg-id="Z Anmol" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
+
+
+#EXTINF:-1 tvg-id="Z Anmol" group-title="Entertainment" tvg-logo="N/A",Sony PAL
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
+
+
+#EXTINF:-1 tvg-id="Z Anmol" group-title="Entertainment" tvg-logo="N/A",Sony WAH
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43852
 
 #EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
@@ -199,6 +214,16 @@ http://pockettv.xyz/api/zee.m3u8?c=bigganga
 
 HINDI MUSIC
 ------------------------------------------------------------------------------------------------------------
+#EXTINF:-1 tvg-id="N.A" group-title="Hindi Music" tvg-logo="N/A",MTV Beats HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43915
+
+#EXTINF:-1 tvg-id="N.A" group-title="Hindi Music" tvg-logo="N/A",MTV PLUS HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43916
+
+
+#EXTINF:-1 tvg-id="N.A" group-title="Hindi Music" tvg-logo="N/A",Music India
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43918
+
 #EXTINF:-1 tvg-id="N.A" group-title="Hindi Music" tvg-logo="N/A",B4Umusic
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
@@ -213,6 +238,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zing
 http://pockettv.xyz/api/zee.m3u8?c=etc
 
 #EXTINF:-1 tvg-id="SONY MIX" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png",Sony Mix
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43854
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 
 #EXTINF:-1 tvg-id="9XM" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM 
@@ -387,7 +413,11 @@ http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",DiscoverScienceHindi
 http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 
+#EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",Discover World HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43892
 
+#EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",History TV HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43900
 
 #EXTINF:-1 tvg-name="BBC Earth HD English HD" tvg-id="SONY BBC EARTH" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/150?cb=20171204084854",BBC Earth HD English HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43849
@@ -451,6 +481,7 @@ http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|user-agent="Lavf/56.15.102"
 http://95.170.215.118/hls/m3u8/Boomerang.m3u8|user-agent="Lavf/56.15.102"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="N/A", Sony YAY
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43853
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="N/A", Cartoon Network
@@ -554,6 +585,8 @@ http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",BOXCinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
 
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",B4U Movies
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43855
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="Hindi Movies",Movieplus
 https://m-c03-j2apps.s.llnwi.net/hls/6521.Movieplus.in_480p/index.m3u8
