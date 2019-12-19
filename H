@@ -57,7 +57,7 @@ http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aakaash_bangla/Aakaash
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Sangeet_Bangla/Sangeet_Bangla_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",DD Bangla
-http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Bangla/DD_Bangla_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/74501
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Bengali.png",Discovery Bangla
 http://sngprecdnems11.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_1200.m3u8?jct=XTiktHLZkP5A1egoPex7kQ&pxe=1575277668&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
