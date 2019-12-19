@@ -132,12 +132,14 @@ Hindi Entertainment
 --------------------
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-https://sony247channels.akamaized.net/linear/hls/pa/event/HgaB-u6rSpGx3mo4Xu3sLw/stream/d6bb8799-0bbe-4b16-be6b-9ca0eb2b55f2:SIN/variant/48ac061cd3b3208d080a3da42b25746a/bandwidth/hdntl=exp=1576377413~acl=%2f*~data=hdntl~hmac=4682d1be20d89009f06208a0a02e1b5bf1701147174541b8f8f7d00443fa431c/3990800.m3u8
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43846
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43850
+
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
@@ -156,9 +158,18 @@ http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/p
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
 #EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43843
+
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_1200.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
+
+#EXTINF:-1 tvg-id="STAR BHARAT HD" group-title="Entertainment" tvg-logo="N/A",Star Utsav
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43844
+
+
 #EXTINF:-1 tvg-id="STAR BHARAT HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43840
+
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1200.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_HD.png",Star Utsav HD
@@ -490,6 +501,8 @@ Hindi Movies
 
 
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43847
+
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY  MAX 2" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2
@@ -510,12 +523,20 @@ http://pockettv.xyz/api/zee.m3u8?c=classic
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
 http://pockettv.xyz/api/zee.m3u8?c=andpicshd
 
+#EXTINF:-1 tvg-id="N/A" tvg-logo="Logo N/A" tvg-name="Zee Action"  group-title="Hindi Movies",Star Utsav Movies
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43845
+
 
 #EXTINF:-1 tvg-id="id N/A"group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures SD
 http://pockettv.xyz/api/zee.m3u8?c=andpicssd
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png",Star Gold 
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43841
+
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
+
+#EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="N/A",Star Select HD 
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="Logo N/A" tvg-name="Zee Action"  group-title="Hindi Movies",Zee Action
 http://pockettv.xyz/api/zee.m3u8?c=action
