@@ -63,6 +63,17 @@ http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_Bangla/DD_Bang
 http://sngprecdnems11.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Discovery_Channel_Bengali/Discovery_Channel_Bengali_1200.m3u8?jct=XTiktHLZkP5A1egoPex7kQ&pxe=1575277668&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="N/A",Gaan Bangla
+http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/9600
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD
+http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/9603
+
+
+
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -317,6 +328,8 @@ http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/DD_News/DD_News_1
 
 ENGLISH News
 ------------------------------------------------------------------------------------------------------------
+
+
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/NDTV_24x7.png",NDTV 24x7
 http://sngprecdnems13.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/NDTV_24x7/NDTV_24x7_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
@@ -346,6 +359,11 @@ http://pockettv.xyz/api/zee.m3u8?c=bbcworldnews
 
 #EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1f/WION_TV_logo.jpg",Wion
 http://pockettv.xyz/api/zee.m3u8?c=wion
+
+#EXTINF:-1 tvg-id="id N/A" group-title="English News" tvg-logo="N/A",Mirror Now
+http://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/index_576_av-p.m3u8
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
@@ -423,6 +441,9 @@ http://95.170.215.118/hls/m3u8/Boomerang.m3u8|user-agent="Lavf/56.15.102"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="N/A", Sony YAY
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="N/A", Cartoon Network
+http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/395
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
