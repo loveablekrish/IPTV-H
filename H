@@ -131,51 +131,32 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 Hindi Entertainment
 --------------------
 
-EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43846
-
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
-EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43850
-
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43835
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment"  ,tvg-logo="logo N/A",Zee TV SD US
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
 
 #EXTINF:-1 tvg-id="Colors HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43856
+
 #EXTINF:-1 tvg-id="Colors HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Andtv HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43866
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
-
-#EXTINF:-1 tvg-id="id N/A" group-title="Entertainment"  ,tvg-logo="logo N/A",Bindas 
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43874
-
 #EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43843
-
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_1200.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
-
-#EXTINF:-1 tvg-id="STAR BHARAT HD" group-title="Entertainment" tvg-logo="N/A",Star Utsav
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43844
-
-
 #EXTINF:-1 tvg-id="STAR BHARAT HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43840
-
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1200.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_HD.png",Star Utsav HD
@@ -188,20 +169,13 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
 #EXTINF:-1 tvg-id="Z Anmol" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
 
-
-#EXTINF:-1 tvg-id="Z Anmol" group-title="Entertainment" tvg-logo="N/A",Sony PAL
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43851
-
-
-#EXTINF:-1 tvg-id="Z Anmol" group-title="Entertainment" tvg-logo="N/A",Sony WAH
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43852
-
 #EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Entertainment", The CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
+
 EXTINF:-1 tvg-id="id N/A" group-title="Entertainment", tvg-logo="logo N/A",Big Magic
 http://pockettv.xyz/api/zee.m3u8?c=bigmagic
 
@@ -232,14 +206,12 @@ http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 http://27.147.156.14:1935/MTV-Beats/MTV-Beats.stream/chunklist.m3u8
 
 #EXTINF:-1 tvg-id="ZING" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing 
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43837
 http://pockettv.xyz/api/zee.m3u8?c=zing
 
 #EXTINF:-1 tvg-id="Z ETC Bollywood" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png",Zee ETC Bollywood
 http://pockettv.xyz/api/zee.m3u8?c=etc
 
 #EXTINF:-1 tvg-id="SONY MIX" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png",Sony Mix
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43854
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 
 #EXTINF:-1 tvg-id="9XM" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM 
@@ -667,10 +639,6 @@ http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43835
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43836
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", ZING
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43837
-#EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", ZEE TV CANADA
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43838
-#EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", ZEE TV USA HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43839
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", STAR BHARAT HD
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43840
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", STAR GOLD HD
@@ -709,8 +677,7 @@ http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43856
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43857
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", AAJ TAK HD
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43858
-#EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", AAJ TAK TEJ HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43859
+
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", ZOOM TV HD
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43860
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", AASTHA
@@ -719,8 +686,7 @@ http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43861
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43862
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", ABP NEWS INDIA
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43863
-#EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", ADHYTAM
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43864
+
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", AND PICTURES HD
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43865
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", AND TV HD
@@ -729,11 +695,10 @@ http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43866
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43867
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", ANIMAL PLANET HD
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43868
-#EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", APN NEWS
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43869
+
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", ARIHANT
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43870
-#EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", B-FLIX MOVIES
+#EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", &-FLIX MOVIES
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43871
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", BABY TV HDI
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43872
@@ -747,8 +712,7 @@ http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43875
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43876
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", COMEDY ACTIVE
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43877
-#EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", D2H CINEMA HD
-http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43878
+
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", D2H EVERGREEN CLASSIC HD
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43879
 #EXTINF:-1tvg-id="id N/A" group-title="TATA SKY", DD NATIONAL
