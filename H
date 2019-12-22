@@ -367,15 +367,6 @@ http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",DiscoverScienceHindi
 http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",Discover World HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43892
-
-#EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",History TV HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43900
-
-#EXTINF:-1 tvg-name="BBC Earth HD English HD" tvg-id="SONY BBC EARTH" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/26/BBC_Earth_%28Alternative%29.svg/revision/latest/scale-to-width-down/150?cb=20171204084854",BBC Earth HD English HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43849
-
 #EXTINF:-1 tvg-id="Living Foodz HD" group-title="Infotainment" tvg-logo="N/A",Living Foodz HD
 http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
 
@@ -435,7 +426,6 @@ http://95.170.215.118/hls/m3u8/Disney-Channel.m3u8|user-agent="Lavf/56.15.102"
 http://95.170.215.118/hls/m3u8/Boomerang.m3u8|user-agent="Lavf/56.15.102"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="N/A", Sony YAY
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43853
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="N/A", Cartoon Network
