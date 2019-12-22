@@ -182,16 +182,6 @@ http://pockettv.xyz/api/zee.m3u8?c=bigganga
 
 HINDI MUSIC
 ------------------------------------------------------------------------------------------------------------
-#EXTINF:-1 tvg-id="N.A" group-title="Hindi Music" tvg-logo="N/A",MTV Beats HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43915
-
-#EXTINF:-1 tvg-id="N.A" group-title="Hindi Music" tvg-logo="N/A",MTV PLUS HD
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43916
-
-
-#EXTINF:-1 tvg-id="N.A" group-title="Hindi Music" tvg-logo="N/A",Music India
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43918
-
 #EXTINF:-1 tvg-id="N.A" group-title="Hindi Music" tvg-logo="N/A",B4Umusic
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
@@ -227,8 +217,6 @@ http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg",$ Dilse Hungama Hits
 http://linear07hun-lh.akamaihd.net/i/dilse_1@673921/master.m3u8
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="Logo N/A" tvg-name="N/A"  group-title="",Skystar Music
