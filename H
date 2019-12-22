@@ -130,6 +130,9 @@ http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
 Hindi Entertainment
 --------------------
+#EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
+http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/407
+
 
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
