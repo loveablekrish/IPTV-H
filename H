@@ -54,7 +54,7 @@ http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla_Cinema/Zee_Bang
 http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Aakaash_bangla/Aakaash_bangla_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_821/PORTRAIT/9f2296b2-a778-485e-8b63-3dc30f281c6c.png",Sangeet Bangla
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/24053
+https://streamer-1.toffeelive.com/live/sangeet_bangla_720/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_Bangla.png",DD Bangla
 http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/74501
