@@ -7,7 +7,16 @@ http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/p
 BANGLA
 -------------------------------------------------------------------------------------------
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD 1
+https://streamer-1.toffeelive.com/live/zee_bangla_hd_720/index.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla SD
+https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD 2
+http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/9603
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD 3
 http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://i.pinimg.com/originals/4f/b9/a9/4fb9a98f0ea271f7bc2fcd225679f33b.jpg",ABP Ananda
@@ -40,13 +49,6 @@ http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_Time_TV/News_Time
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png", Aath
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla SD
-https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
-
-
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HQ
-https://streamer-1.toffeelive.com/live/zee_bangla_hd_720/index.m3u8
-
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla_Cinema.png",Zee B Cinema
 https://streamer-1.toffeelive.com/live/zee_bangla_cinema_720/index.m3u8
 
@@ -65,12 +67,6 @@ http://sngprecdnems11.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Discovery_Channel
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="N/A",Gaan Bangla
 http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/9600
-
-
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD
-http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/9603
-
-
 
 
 
@@ -133,7 +129,6 @@ Hindi Entertainment
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD USA
 http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/407
 
-
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 
@@ -142,7 +137,6 @@ https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee TV HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
-
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment"  ,tvg-logo="logo N/A",Zee TV SD US
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
@@ -167,7 +161,6 @@ http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
 
 #EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Entertainment", The CW
 http://190.80.3.28/CW/CW.isml/index.m3u8
@@ -491,22 +484,14 @@ Hindi Movies
 #EXTINF:-1 tvg-id="SONY MAX HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Max_HD.png",Sony Max
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
-
-
-
-
 EXTINF:-1 tvg-id="SONY  MAX 2" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2
 https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=1576142847~acl=%2f*~data=hdntl~hmac=48bcde39e751f41585726b8e08f6b08384827d0e81e3401ec325ad57b990f605/master_3500.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43836
-
-
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema SD
 http://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
-
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
@@ -525,12 +510,7 @@ http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43845
 #EXTINF:-1 tvg-id="id N/A"group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures SD
 http://pockettv.xyz/api/zee.m3u8?c=andpicssd
 
-
-
-
 #EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png",Star Gold 
-http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43841
-
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="N/A",Star Select HD 
