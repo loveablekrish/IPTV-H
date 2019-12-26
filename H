@@ -89,7 +89,8 @@ https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65368
 https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Sony Ten 1
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Sony Ten 1 HD
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65367
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 
 
