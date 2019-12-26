@@ -81,10 +81,12 @@ SPORTS
 
 ------------------------------------------------------------------------------------------
 #
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Espn
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Espn HD
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65371
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",SIX
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",SIX HD
+http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65368
 https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 
 #EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Sony Ten 1
