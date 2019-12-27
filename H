@@ -510,7 +510,7 @@ https://sony247channels.akamaized.net/hls/live/2008252/SABHD/hdntl=exp=157614284
 http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema SD
-http://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
+https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
 
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
