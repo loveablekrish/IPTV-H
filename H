@@ -95,7 +95,8 @@ https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
 
 
 #EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="N/A",Sony Ten 2 
-http://163.172.85.133:8080/TenS/1/index.m3u8
+https://streamer-1.toffeelive.com/live/ten_2_720/index.m3u8
+ttpttp://163.172.85.133:8080/TenS/1/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3
 http://163.172.85.133:8080/TenS/3/index.m3u8
