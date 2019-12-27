@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
+EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
 http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65373
 
 EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST2
