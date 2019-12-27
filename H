@@ -81,17 +81,17 @@ SPORTS
 
 ------------------------------------------------------------------------------------------
 #
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Espn HD
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65371
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Espn 
 https://streamer-1.toffeelive.com/live/sony_espn_720/index.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",SIX HD
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65368
+
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",SIX
 https://streamer-1.toffeelive.com/live/sony_six_720/index.m3u8
 
-#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Sony Ten 1 HD
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65367
+
+#EXTINF:-1 tvg-id="N/A" group-title="Sports" tvg-logo="N/A",Sony Ten 1
 https://streamer-1.toffeelive.com/live/ten_1_720/index.m3u8
+
 
 
 #EXTINF:-1 tvg-id="SONY TEN" group-title="Sports" tvg-logo="N/A",Sony Ten 2 
@@ -113,29 +113,29 @@ http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(01)/index.
 http://fr-c.movply.stream/hls/star-sports-1-hd.m3u8
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports 1 HD Hindi
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65357
-ttp://163.172.29.246:8081/globe/starsports1/chunks.m3u8
+http://163.172.29.246:8081/globe/starsports1/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 1 HD
+
+EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 1 HD
 http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65359
 
-#EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 2 HD
+EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 2 HD
 http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65358
 
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports Select 1
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65356
-ttpttp://109.169.56.170/hls/starsportsselect1.m3u8
+http://109.169.56.170/hls/starsportsselect1.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports Select 2
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65355
 http://109.169.56.170/hls/starsportsselect2.m3u8
+
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports",Dsports
 http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
 
-#EXTINF:-1 tvg-logo="N/A" group-title="Sports",Willow HD
+EXTINF:-1 tvg-logo="N/A" group-title="Sports",Willow HD
 http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65346
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -159,8 +159,8 @@ http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
 
 #EXTINF:-1 tvg-id="Colors HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65388
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="Andtv HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
