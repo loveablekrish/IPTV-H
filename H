@@ -125,8 +125,8 @@ http://163.172.29.246:8081/globe/starsports1/chunks.m3u8
 EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 1 HD
 http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65359
 
-EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 2 HD
-http://caspertv.live:8000/younesspro/ZBcXeRsFTO/65358
+#EXTINF:-1 tvg-logo="N/A" group-title="Sports",Star Sports 2 HD
+http://iptv4.ga:8080/live/test001/debokk/350.ts
 
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Sports", Star Sports Select 1
