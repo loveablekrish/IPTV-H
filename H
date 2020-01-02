@@ -1,5 +1,5 @@
 
-#EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
+EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
 http://iptv4.ga:8080/live/test001/debokk/435.ts
 
 #EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST2
