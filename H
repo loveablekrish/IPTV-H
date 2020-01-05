@@ -147,38 +147,38 @@ Hindi Entertainment
 #EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony HD
 http://www.sansat.net:25461/028241632308/oq4wmiBcPjKnZx0/43846
 
-#EXTINF:-1 tvg-id="SET  HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony
+#EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",Sony
 https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 
-#EXTINF:-1 tvg-id="SONY SAB HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB
+#EXTINF:-1 tvg-id="741" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_SAB_HD.png",Sony SAB
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
-#EXTINF:-1 tvg-id="Zee TV HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
+#EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
 http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment"  ,tvg-logo="logo N/A",Zee TV SD US
 http://pockettv.xyz/api/zee.m3u8?c=ztvsdusa
 
-#EXTINF:-1 tvg-id="Colors HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors
+#EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="Andtv HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
+#EXTINF:-1 tvg-id="472" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
 http://pockettv.xyz/api/zee.m3u8?c=andtvhd
 
-#EXTINF:-1 tvg-id="STAR PLUS HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
+#EXTINF:-1 tvg-id="1132" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_1200.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
-#EXTINF:-1 tvg-id="STAR BHARAT HD" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
+#EXTINF:-1 tvg-id="1127" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Bharat_HD.png",Star Bharat HD
 http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1200.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Utsav_HD.png",Star Utsav HD
 http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
-#EXTINF:-1 tvg-id="Z Anmol" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
+#EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
 http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
 
-#EXTINF:-1 tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
+#EXTINF:-1tvg-id="202" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 
 #EXTINF:-1 tvg-logo="N/A" group-title="Entertainment", The CW
