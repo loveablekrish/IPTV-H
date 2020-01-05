@@ -13,13 +13,8 @@ BANGLA
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD 1
 https://streamer-1.toffeelive.com/live/zee_bangla_hd_720/index.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla SD
+#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla
 https://streamer-1.toffeelive.com/live/zee_bangla_720/index.m3u8
-
-
-#EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla SD
-http://iptv4.ga:8080/live/test001/debokk/2086.ts
-
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Bangla.png",Zee Bangla HD 2
 http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/9603
