@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
-https://yknf2exxr2jp.xyz/api/tulip/zee.m3u8?id=0-9-zeebangla&tvauth=jxanhNVFUzT1RFNE16azJNUT09CjoxZTc2MjE0MGZlZWM2MmEyZDkzNjA0OWZkOWE3MTg2NA==
+https://yknf2exxr2jp.xyz/api/tulip/zee.m3u8?id=
 
 EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST2
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
@@ -154,7 +154,7 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 #EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
-https://yknf2exxr2jp.xyz/api/tulip/zee.m3u8?id=0-9-zeetvhd&tvauth=pncG5NVFUzT1RFNE5ESTBNUT09Cjo1OTRmNjcwNDRjMTU5OTY3MjIyODk2MzAwNDNhYTc0NQ==
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment"  ,tvg-logo="logo N/A",Sony Sab HD
 http://iptv4.ga:8080/live/test004/rebookk/437.ts
@@ -176,7 +176,7 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1200.m3u8|Use
 http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 #EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
-https://yknf2exxr2jp.xyz/api/tulip/zee.m3u8?id=0-9-zeeanmol&tvauth=owb3dNVFUzT1RFNE5ETTROdz09CjpmY2IxZjJhODMwMzgxMGFmYTEzNDYzZmE0YWJlNTAzZQ==
+
 
 #EXTINF:-1tvg-id="202" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
