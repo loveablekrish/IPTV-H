@@ -26,7 +26,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/24_Ghanta_logo.JPG",Zee 24 Ghanta 
-https://yknf2exxr2jp.xyz/api/tulip/zee.m3u8?id=0-9-24ghantatv&tvauth=xaeGFNVFUzT1RFNE5EUTFNdz09CjoxN2FhNzI1YjRjMzRiYjljZDI5YmQwYTFiOTQwNmNmMA==
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/24056
