@@ -26,7 +26,7 @@ http://pockettv.xyz/api/zee.m3u8?c=zeebanglahd
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3c/24_Ghanta_logo.JPG",Zee 24 Ghanta 
-http://pockettv.xyz/api/zee.m3u8?c=24ghanta
+https://yknf2exxr2jp.xyz/api/tulip/zee.m3u8?id=0-9-24ghantatv&tvauth=xaeGFNVFUzT1RFNE5EUTFNdz09CjoxN2FhNzI1YjRjMzRiYjljZDI5YmQwYTFiOTQwNmNmMA==
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bengali_HD.png",Colors Bangla HD
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/24056
@@ -154,7 +154,7 @@ https://streamer-1.toffeelive.com/live/sony_entertainment_720/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 
 #EXTINF:-1 tvg-id="167" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_TV_HD.png",Zee TV HD 
-http://pockettv.xyz/api/zee.m3u8?c=zeetvhd
+https://yknf2exxr2jp.xyz/api/tulip/zee.m3u8?id=0-9-zeetvhd&tvauth=pncG5NVFUzT1RFNE5ESTBNUT09Cjo1OTRmNjcwNDRjMTU5OTY3MjIyODk2MzAwNDNhYTc0NQ==
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment"  ,tvg-logo="logo N/A",Sony Sab HD
 http://iptv4.ga:8080/live/test004/rebookk/437.ts
@@ -176,7 +176,7 @@ http://starbharat-i.akamaihd.net/hls/live/569933/starbharat/master_1200.m3u8|Use
 http://starutsav-i.akamaihd.net/hls/live/569923/starutsav/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 #EXTINF:-1 tvg-id="473" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Anmol.png",Zee Anmol
-http://pockettv.xyz/api/zee.m3u8?c=zeeanmol
+https://yknf2exxr2jp.xyz/api/tulip/zee.m3u8?id=0-9-zeeanmol&tvauth=owb3dNVFUzT1RFNE5ETTROdz09CjpmY2IxZjJhODMwMzgxMGFmYTEzNDYzZmE0YWJlNTAzZQ==
 
 #EXTINF:-1tvg-id="202" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="Entertainment",DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
