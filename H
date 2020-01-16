@@ -1,6 +1,6 @@
 
 #EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST1
-https://z5ams.akamaized.net/zeebanglahd/index.m3u8?hdnts=st=1579179070~exp=1579182070~acl=/*~hmac=10a6ac97ce3dc3ea3a2064313f1d0fae80844817e07b270fd13fcae0e51c2bad
+https://yknf2exxr2jp.xyz/api/tulip/zee.m3u8?id=0-9-zeebangla&tvauth=jxanhNVFUzT1RFNE16azJNUT09CjoxZTc2MjE0MGZlZWM2MmEyZDkzNjA0OWZkOWE3MTg2NA==
 
 EXTINF:-1 tvg-id="id N/A" group-title="TEST" tvg-logo="N/A",TEST2
 http://ngprsite.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Zee_Bangla/Zee_Bangla_600.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
