@@ -596,7 +596,7 @@ https://livechannel.shemaroome.com/linearplayout/02-bollywood-classic/chunklist_
 #EXTINF:0, group-title="Hindi Movies",b4u kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
 #EXTINF:0, group-title="Hindi Movies",WOW CINEMA
-http://streamer.multitvsolution.in//live/WowCinema-d/p4.m3u8
+
 
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
