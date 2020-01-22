@@ -274,7 +274,7 @@ HINDI News
 #EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png", Zee News
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43948
 
-#EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png", Zee Business
+EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png", Zee Business
 
 
 XTINF:-1 tvg-id="Aaj Tak" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",AajTak
