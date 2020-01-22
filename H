@@ -468,7 +468,7 @@ http://95.170.215.118/hls/m3u8/Boomerang.m3u8|user-agent="Lavf/56.15.102"
 https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Kids" tvg-logo="N/A", Cartoon Network
-http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/395
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49546
 
 #EXTINF:-1 tvg-ID="N/A" tvg-name="DISNEY XD HD" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="Kids",DISNEY XD HD
 http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/397
@@ -528,31 +528,31 @@ Hindi Movies
 https://streamer-1.toffeelive.com/live/sony_max_720/index.m3u8
 
 #EXTINF:-1 tvg-id="SONY  MAX 2" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_MAX2.png",Sony Max 2
-http://iptv4.ga:8080/live/test001/debokk/698.ts
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49975
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema HD
-http://pockettv.xyz/api/zee.m3u8?c=zcinemahd
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43836
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Cinema_HD.png",Zee Cinema SD
 https://streamer-1.toffeelive.com/live/zee_cinema_720/index.m3u8
-http://pockettv.xyz/api/zee.m3u8?c=zcinemasd
+
 
 #EXTINF:-1 tvg-id="Zee Action" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Action.png",Zee Action
-http://pockettv.xyz/api/zee.m3u8?c=action
+
 
 #EXTINF:-1 tvg-id="Zee Bollywood" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Classic.png",Zee Bollywood
-http://pockettv.xyz/api/zee.m3u8?c=classic
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures HD
-http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43865
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="Logo N/A" tvg-name="Zee Action"  group-title="Hindi Movies",Star Utsav Movies
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43845
 
 
 #EXTINF:-1 tvg-id="id N/A"group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png",And Pictures SD
-http://iptv4.ga:8080/live/test001/debokk/356.ts
-http://pockettv.xyz/api/zee.m3u8?c=andpicssd
+
+
 
 #EXTINF:-1 tvg-id="STAR GOLD HD" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_GoldHD.png",Star Gold 
 http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1200.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
@@ -561,16 +561,16 @@ http://staragold-i.akamaihd.net/hls/live/569910/staragold/master_1200.m3u8|user-
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43842
 
 #EXTINF:-1 tvg-id="N/A" tvg-logo="Logo N/A" tvg-name="Zee Action"  group-title="Hindi Movies",Zee Action
-http://pockettv.xyz/api/zee.m3u8?c=action
+
 
 #EXTINF:-1 tvg-id="Movies OK" group-title="Hindi Movies" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Movies_OK_SD.png",Movies OK
 http://moviesok-i.akamaihd.net/hls/live/569918/moviesok/master_2000.m3u8|user-agent="Mozilla/5.0 (CrKey armv7l 1.4.15250) AppleWebKit/JioTV/537.36 (KAIOS, like Gecko) Chrome/74.0.3729.77 Safari/537.36"
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="Zee Classic"  group-title="Hindi Movies",Zee Classic
-http://pockettv.xyz/api/zee.m3u8?c=classic
+
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",And Pictures HD
-http://pockettv.xyz/api/zee.m3u8?c=andpicshd
+
 
 #EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="And Pictures HD"  group-title="Hindi Movies",BOXCinema
 https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in_480p/index.m3u8
