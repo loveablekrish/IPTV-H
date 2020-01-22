@@ -44,10 +44,10 @@ https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_5_av-p.m3u8
 http://edge-ap2.cloudfrontcdn.in:1935/edge1/smartsh4.stream_aac/playlist.m3u8
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Onkar_Only_Truth.png", Onkar TV 
-http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/Onkar_Only_Truth/Onkar_Only_Truth_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/News_Time_TV.png",News Time 
-http://smumcdnems03.cdnsrv.jio.com/jiotv.live.cdn.jio.com/News_Time_TV/News_Time_TV_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
+
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png", Aath
 https://streamer-1.toffeelive.com/live/sony_aath_720/index.m3u8
@@ -69,7 +69,7 @@ http://sngprecdnems11.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Discovery_Channel
 
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Bangla" tvg-logo="N/A",Gaan Bangla
-http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/9600
+
 
 
 
