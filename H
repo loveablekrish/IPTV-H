@@ -227,8 +227,11 @@ http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://a10.gaanacdn.com/images/radio_rect_mirchi/17.jpg",Nazrana (Ghazals)
 http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
 
-EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="N/A",Zoom 
+#EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="N/A",Zoom 
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43860
+
+
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43918
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg",$ Kadak Hungama Hits
 http://linear01hun-lh.akamaihd.net/i/faaduhits_1@660838/master.m3u8
