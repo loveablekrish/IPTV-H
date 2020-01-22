@@ -157,7 +157,7 @@ https://streamer-1.toffeelive.com/live/sony_sab_720/index.m3u8
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43835
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Entertainment"  ,tvg-logo="logo N/A",Sony Sab HD
-http://iptv4.ga:8080/live/test004/rebookk/437.ts
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43850
 
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors
 http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/playlist.m3u8
@@ -167,7 +167,7 @@ http://ms-azure-video.gslb.startimestv.com/live/COLORS_1072_500_480x360_424212/p
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43856
 
 #EXTINF:-1 tvg-id="472" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/And_TV_HD.png",And TV HD
-http://pockettv.xyz/api/zee.m3u8?c=andtvhd
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43866
 
 #EXTINF:-1 tvg-id="1132" group-title="Entertainment" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Star_Plus_HD.png",Star Plus HD
 http://starplushd-i.akamaihd.net/hls/live/569928/starplushd/master_1200.m3u8|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
@@ -190,7 +190,7 @@ http://190.80.3.28/CW/CW.isml/index.m3u8
 EXTINF:-1 tvg-id="id N/A" group-title="Entertainment", tvg-logo="logo N/A",Big Magic
 http://pockettv.xyz/api/zee.m3u8?c=bigmagic
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Entertainment", tvg-logo="logo N/A",Big Ganga
+EXTINF:-1 tvg-id="id N/A" group-title="Entertainment", tvg-logo="logo N/A",Big Ganga
 http://pockettv.xyz/api/zee.m3u8?c=bigganga
 
 
