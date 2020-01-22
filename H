@@ -471,13 +471,14 @@ https://streamer-1.toffeelive.com/live/sony_yay_720/index.m3u8
 http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49546
 
 #EXTINF:-1 tvg-ID="N/A" tvg-name="DISNEY XD HD" tvg-logo="https://s3.amazonaws.com/ok2logo/disneyxd.png" group-title="Kids",DISNEY XD HD
-http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/397
-#EXTINF:-1 tvg-ID="" tvg-name="DISNEY ALL DAY 24X7" tvg-logo="https://s3.amazonaws.com/ok2logo/disney.png" group-title="Kids",DISNEY ALL DAY 24X7
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49554
+
+XTINF:-1 tvg-ID="" tvg-name="DISNEY ALL DAY 24X7" tvg-logo="https://s3.amazonaws.com/ok2logo/disney.png" group-title="Kids",DISNEY ALL DAY 24X7
 http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/7804
-#EXTINF:-1 tvg-ID="" tvg-name="DUCK TALES 24X7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ducktales2017Logo.jpg/250px-Ducktales2017Logo.jpg" group-title="Kids",DUCK TALES 24X7
+EXTINF:-1 tvg-ID="" tvg-name="DUCK TALES 24X7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Ducktales2017Logo.jpg/250px-Ducktales2017Logo.jpg" group-title="Kids",DUCK TALES 24X7
 http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/7498
-#EXTINF:-1 tvg-ID="" tvg-name="SPIDERMAN 24x7 (NEW)" tvg-logo="https://s3.amazonaws.com/ok2logo/spiderman.jpg" group-title="Kids",SPIDERMAN 24x7 (NEW)
-http://ok2.se:8000/v0Cfb0hfA4/AnG6WBvc8B/9976
+EXTINF:-1 tvg-ID="" tvg-name="SPIDERMAN 24x7 (NEW)" tvg-logo="https://s3.amazonaws.com/ok2logo/spiderman.jpg" group-title="Kids",SPIDERMAN 24x7 (NEW)
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
