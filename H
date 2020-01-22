@@ -204,22 +204,22 @@ HINDI MUSIC
 http://103.199.161.254/Content/B4Umusic/Live/Channel(B4Umusic)/index.m3u8
 
 #EXTINF:-1 tvg-id="N.A" group-title="Hindi Music" tvg-logo="N/A",MTV Beats
-http://27.147.156.14:1935/MTV-Beats/MTV-Beats.stream/chunklist.m3u8
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43915
 
 #EXTINF:-1 tvg-id="ZING" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zing.png",Zing 
-http://pockettv.xyz/api/zee.m3u8?c=zing
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43837
 
 #EXTINF:-1 tvg-id="Z ETC Bollywood" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/etc.png",Zee ETC Bollywood
-http://pockettv.xyz/api/zee.m3u8?c=etc
+
 
 #EXTINF:-1 tvg-id="SONY MIX" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Mix.png",Sony Mix
 https://streamer-1.toffeelive.com/live/sony_mix_720/index.m3u8
 
 #EXTINF:-1 tvg-id="9XM" group-title="Hindi Music" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/9XM.png",9XM 
-http://pockettv.xyz/api/zee.m3u8?c=9xm
+
 
 #EXTINF:-1 tvg-id="9X Jalwa" group-title="Hindi Music" tvg-logo="https://tvtbr.s3.amazonaws.com/MWTV/MWTV_LIVETVCHANNEL_578/PORTRAIT/4a9d4053-fa52-4d71-a8d3-a05d19c5a711.jpg",9X Jalwa 
-http://pockettv.xyz/api/zee.m3u8?c=9xjalwa
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43857
 
 #EXTINF:-1 tvg-id="id N/A" group-title="Hindi Music" tvg-logo="https://2.bp.blogspot.com/-jOPOMBYP0Hk/XKgrK1Px5yI/AAAAAAAAAH8/V7HVJZOBGiY0vREOs9WePJfOvWDDFa_wACLcBGAs/w680/images%2B%25289%2529.jpeg",Pop Hungama Hits
 http://linear04hun-lh.akamaihd.net/i/poppataka_1@665241/master.m3u8
@@ -269,10 +269,10 @@ HINDI News
 ------------------------------------------------------------------------------------------------------------
 
 #EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_News.png", Zee News
-http://pockettv.xyz/api/zee.m3u8?c=zeenews
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43948
 
 #EXTINF:-1 tvg-id="Zee News" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Business.png", Zee Business
-http://pockettv.xyz/api/zee.m3u8?c=zeebusiness
+
 
 XTINF:-1 tvg-id="Aaj Tak" group-title="Hindi News" tvg-logo="http://smumcdnems03.cdnsrv.jio.com/mumsite.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/Aaj_Tak.png",AajTak
 http://sngprecdnems15.cdnsrv.jio.com/jiotvstb.live.cdn.jio.com/Aaj_Tak/Aaj_Tak_1200.m3u8?jct=LrgwZm7NGzQYbOWCSflvaw&pxe=1581172404&st=2rABpyTLSDzkoYSlKcWJhg|User-Agent="Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 JioTV Mobile/14E304 Safari/602.1"
@@ -390,7 +390,7 @@ http://streamer.multitvsolution.in/live/DiscoveryHindi-a/p4.m3u8
 http://streamer.multitvsolution.in/live/DiscoverScienceHindi-a/p4.m3u8
 
 #EXTINF:-1 tvg-id="Living Foodz HD" group-title="Infotainment" tvg-logo="N/A",Living Foodz HD
-http://pockettv.xyz/api/zee.m3u8?c=livingfoodz
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43911
 
 #EXTINF:-1 tvg-name="  Nat Geo HD" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/240px-Natgeologo.svg.png",  Nat Geo HD
 http://95.170.215.118/hls/m3u8/Nat-Geo-CZ.m3u8|user-agent="Lavf/56.15.102"
@@ -428,8 +428,22 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-name="  Fashion TV Midnite" tvg-id="EPG N/A" group-title="Infotainment" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/95/Fashion_TV_2009.svg/revision/latest/scale-to-width-down/200?cb=20111009231547",  Fashion TV Midnite
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
-#EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",DiscoveryHindi
-http://iptv4.ga:8080/live/test001/debokk/2107.ts
+#EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",Discovery
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43892
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A", TLC HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49578
+
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A",History Hindi HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/43900
+
+
+#EXTINF:-1 tvg-id="id N/A" group-title="Infotainment" tvg-logo="N/A", History ENG HD
+http://www.sansat.net:25461/zbuyen95/JZ1jh5CJV5/49558
+
 
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
